@@ -1,0 +1,801 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,State,City,Category,Product,Quantity,Sales,Cost,Profit,Discount
+ORD0001,2025-04-09,CUST104,Rohan Patel,North,Delhi,New Delhi,Fashion,Sneakers,1,2087.1,1294.0,793.1,0.1
+ORD0002,2025-05-15,CUST068,Priya Desai,West,Maharashtra,Pune,Fashion,Sneakers,3,2805.3,1739.29,1066.01,0.1
+ORD0003,2025-12-31,CUST119,Priya Singh,South,Karnataka,Mysuru,Fashion,Jeans,3,5937.3,3681.13,2256.17,0.1
+ORD0004,2025-05-27,CUST097,Sahil Desai,West,Maharashtra,Mumbai,Electronics,Power Bank,4,16626.0,11970.72,4655.28,0.25
+ORD0005,2025-02-06,CUST046,Nikhil Nair,North,Uttar Pradesh,Noida,Fashion,T-Shirt,5,2175.0,1348.5,826.5,0.25
+ORD0006,2025-11-19,CUST116,Arjun Mehta,North,Uttar Pradesh,Noida,Beauty,Lip Balm,2,2628.2,1524.36,1103.84,0.15
+ORD0007,2025-05-07,CUST024,Pooja Patel,West,Gujarat,Surat,Home & Kitchen,Storage Box,3,2636.7,1713.86,922.84,0.15
+ORD0008,2025-09-04,CUST043,Simran Nair,South,Karnataka,Mysuru,Fashion,Jeans,2,3585.6,2223.07,1362.53,0.2
+ORD0009,2025-11-17,CUST135,Neha Mali,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,4,4814.4,3129.36,1685.04,0.15
+ORD0010,2025-07-05,CUST032,Kavya Mehta,South,Tamil Nadu,Chennai,Electronics,Wireless Earbuds,5,11767.5,8472.6,3294.9,0.1
+ORD0011,2025-01-05,CUST101,Aditya Reddy,West,Maharashtra,Mumbai,Electronics,Power Bank,4,20768.4,14953.25,5815.15,0.1
+ORD0012,2025-05-04,CUST099,Nikhil Kulkarni,South,Tamil Nadu,Coimbatore,Home & Kitchen,Water Bottle,2,1721.4,1118.91,602.49,0.05
+ORD0013,2025-04-27,CUST092,Karan Mali,East,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,1,2264.8,1630.66,634.14,0.2
+ORD0014,2025-09-29,CUST034,Aditi Gupta,South,Karnataka,Mysuru,Electronics,Wireless Earbuds,5,21122.5,15208.2,5914.3,0.15
+ORD0015,2025-03-27,CUST076,Rahul Reddy,East,Odisha,Bhubaneswar,Fashion,T-Shirt,1,1643.0,1018.66,624.34,0.0
+ORD0016,2025-02-08,CUST144,Karan Khan,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,4,2424.0,1575.6,848.4,0.0
+ORD0017,2025-09-07,CUST069,Pooja Joshi,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,3,8641.95,6222.2,2419.75,0.15
+ORD0018,2025-06-09,CUST016,Simran Das,South,Telangana,Hyderabad,Beauty,Body Lotion,3,2266.95,1314.83,952.12,0.15
+ORD0019,2025-09-25,CUST033,Rahul Patel,West,Maharashtra,Mumbai,Fashion,T-Shirt,3,4534.35,2811.3,1723.05,0.05
+ORD0020,2025-08-03,CUST012,Aarav Iyer,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,1,4068.0,2928.96,1139.04,0.2
+ORD0021,2025-03-16,CUST105,Ananya Sharma,South,Tamil Nadu,Coimbatore,Home & Kitchen,Coffee Mug,5,9639.0,6265.35,3373.65,0.1
+ORD0022,2025-04-06,CUST099,Nikhil Kulkarni,North,Delhi,New Delhi,Fashion,Kurti,5,8766.0,5434.92,3331.08,0.1
+ORD0023,2025-01-19,CUST084,Vivek Reddy,East,West Bengal,Kolkata,Fashion,Kurti,1,755.25,468.25,287.0,0.05
+ORD0024,2025-05-24,CUST128,Sahil Singh,North,Delhi,New Delhi,Fashion,Kurti,5,2981.25,1848.38,1132.87,0.25
+ORD0025,2025-02-11,CUST144,Karan Khan,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,2,6599.4,4751.57,1847.83,0.15
+ORD0026,2025-09-10,CUST075,Meera Nair,West,Gujarat,Ahmedabad,Electronics,Smart Watch,5,8364.0,6022.08,2341.92,0.2
+ORD0027,2025-12-31,CUST005,Sahil Joshi,North,Uttar Pradesh,Noida,Beauty,Lip Balm,1,568.0,329.44,238.56,0.2
+ORD0028,2025-10-02,CUST045,Vivek Khan,North,Delhi,New Delhi,Fashion,Sneakers,5,7623.75,4726.73,2897.02,0.05
+ORD0029,2025-08-30,CUST019,Meera Khan,South,Tamil Nadu,Coimbatore,Fashion,T-Shirt,4,5035.4,3121.95,1913.45,0.15
+ORD0030,2025-12-14,CUST127,Ananya Das,East,West Bengal,Kolkata,Home & Kitchen,Storage Box,1,1019.35,662.58,356.77,0.05
+ORD0031,2025-06-22,CUST134,Kavya Joshi,East,Odisha,Bhubaneswar,Electronics,Power Bank,5,23240.0,16732.8,6507.2,0.2
+ORD0032,2025-08-21,CUST147,Meera Mehta,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,1,5563.25,4005.54,1557.71,0.15
+ORD0033,2025-08-12,CUST144,Karan Khan,South,Tamil Nadu,Chennai,Beauty,Body Lotion,4,5111.0,2964.38,2146.62,0.05
+ORD0034,2025-01-28,CUST090,Aarav Sharma,South,Telangana,Hyderabad,Fashion,Jeans,4,1760.0,1091.2,668.8,0.0
+ORD0035,2025-09-13,CUST141,Aarav Reddy,North,Rajasthan,Jaipur,Beauty,Shampoo,5,4092.0,2373.36,1718.64,0.2
+ORD0036,2025-03-06,CUST109,Riya Iyer,North,Uttar Pradesh,Lucknow,Fashion,Jeans,2,2825.4,1751.75,1073.65,0.15
+ORD0037,2025-04-09,CUST086,Ishita Iyer,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,1,978.0,704.16,273.84,0.25
+ORD0038,2025-06-14,CUST102,Aditya Desai,North,Rajasthan,Jaipur,Fashion,T-Shirt,2,2352.0,1458.24,893.76,0.25
+ORD0039,2025-12-14,CUST004,Rohan Desai,West,Maharashtra,Mumbai,Home & Kitchen,Coffee Mug,2,1099.2,714.48,384.72,0.2
+ORD0040,2025-08-10,CUST050,Sneha Mehta,West,Maharashtra,Pune,Beauty,Body Lotion,3,2898.0,1680.84,1217.16,0.0
+ORD0041,2025-07-11,CUST085,Aditi Iyer,West,Gujarat,Ahmedabad,Electronics,Smart Watch,4,8916.0,6419.52,2496.48,0.0
+ORD0042,2025-12-01,CUST052,Aditya Mehta,East,West Bengal,Kolkata,Fashion,Sneakers,4,3705.6,2297.47,1408.13,0.2
+ORD0043,2025-12-06,CUST138,Simran Khan,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,5,8184.25,5319.76,2864.49,0.05
+ORD0044,2025-12-02,CUST043,Simran Nair,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,3,11079.75,7977.42,3102.33,0.15
+ORD0045,2025-06-09,CUST025,Karan Desai,North,Rajasthan,Udaipur,Fashion,T-Shirt,2,2570.4,1593.65,976.75,0.1
+ORD0046,2025-01-12,CUST022,Karan Joshi,North,Uttar Pradesh,Noida,Electronics,Wireless Earbuds,2,7230.6,5206.03,2024.57,0.1
+ORD0047,2025-08-02,CUST073,Vivek Mali,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,3,1406.4,914.16,492.24,0.2
+ORD0048,2025-10-30,CUST008,Ananya Gupta,West,Maharashtra,Nagpur,Electronics,Bluetooth Speaker,2,10046.0,7233.12,2812.88,0.0
+ORD0049,2025-08-26,CUST056,Rohan Desai,North,Rajasthan,Jaipur,Home & Kitchen,Storage Box,3,6468.0,4204.2,2263.8,0.0
+ORD0050,2025-09-30,CUST119,Priya Singh,North,Uttar Pradesh,Noida,Electronics,Wireless Earbuds,2,1742.5,1254.6,487.9,0.15
+ORD0051,2025-05-26,CUST068,Priya Desai,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,4,7925.4,5151.51,2773.89,0.15
+ORD0052,2025-06-29,CUST113,Ishita Desai,North,Rajasthan,Udaipur,Electronics,Smart Watch,2,5055.9,3640.25,1415.65,0.05
+ORD0053,2025-01-04,CUST150,Aditya Mehta,North,Uttar Pradesh,Noida,Fashion,Sneakers,3,6712.8,4161.94,2550.86,0.2
+ORD0054,2025-08-11,CUST131,Sneha Joshi,North,Rajasthan,Jaipur,Fashion,Sneakers,2,4310.0,2672.2,1637.8,0.0
+ORD0055,2025-03-03,CUST118,Aditi Mehta,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,4929.55,3549.28,1380.27,0.05
+ORD0056,2025-10-02,CUST044,Kavya Das,North,Uttar Pradesh,Noida,Beauty,Lip Balm,4,1356.0,786.48,569.52,0.0
+ORD0057,2025-12-22,CUST090,Aarav Sharma,South,Karnataka,Bengaluru,Fashion,Kurti,5,12177.0,7549.74,4627.26,0.1
+ORD0058,2025-06-17,CUST005,Sahil Joshi,South,Tamil Nadu,Coimbatore,Beauty,Face Wash,2,897.6,520.61,376.99,0.15
+ORD0059,2025-04-04,CUST143,Priya Kulkarni,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,1,363.75,236.44,127.31,0.25
+ORD0060,2025-10-23,CUST137,Simran Desai,West,Gujarat,Surat,Fashion,T-Shirt,4,6733.6,4174.83,2558.77,0.05
+ORD0061,2025-03-19,CUST030,Ananya Reddy,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,2,6337.8,4563.22,1774.58,0.1
+ORD0062,2025-10-15,CUST040,Simran Das,South,Telangana,Hyderabad,Fashion,Jeans,3,3687.3,2286.13,1401.17,0.15
+ORD0063,2025-11-05,CUST145,Ananya Mali,West,Maharashtra,Nagpur,Fashion,Jeans,3,6043.5,3746.97,2296.53,0.15
+ORD0064,2025-10-16,CUST042,Sneha Verma,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,4,3516.0,2285.4,1230.6,0.25
+ORD0065,2025-07-15,CUST097,Sahil Desai,North,Uttar Pradesh,Lucknow,Home & Kitchen,Coffee Mug,2,4230.0,2749.5,1480.5,0.0
+ORD0066,2025-07-03,CUST141,Aarav Reddy,North,Delhi,New Delhi,Fashion,Sneakers,5,10599.5,6571.69,4027.81,0.15
+ORD0067,2025-05-28,CUST036,Kavya Desai,East,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,3,11407.5,8213.4,3194.1,0.1
+ORD0068,2025-07-29,CUST046,Nikhil Nair,East,Odisha,Bhubaneswar,Fashion,Jeans,1,1042.95,646.63,396.32,0.15
+ORD0069,2025-04-02,CUST120,Riya Gupta,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,2,600.0,390.0,210.0,0.0
+ORD0070,2025-04-11,CUST041,Sneha Reddy,South,Karnataka,Bengaluru,Fashion,Jeans,5,8180.0,5071.6,3108.4,0.2
+ORD0071,2025-05-29,CUST063,Ishita Mehta,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,1,2232.0,1607.04,624.96,0.0
+ORD0072,2025-07-29,CUST025,Karan Desai,East,Odisha,Bhubaneswar,Beauty,Body Lotion,3,3115.8,1807.16,1308.64,0.1
+ORD0073,2025-06-10,CUST025,Karan Desai,South,Tamil Nadu,Coimbatore,Fashion,Sneakers,1,438.9,272.12,166.78,0.05
+ORD0074,2025-12-27,CUST114,Aditi Joshi,North,Uttar Pradesh,Lucknow,Electronics,Power Bank,1,4628.7,3332.66,1296.04,0.1
+ORD0075,2025-11-14,CUST001,Rohan Singh,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,5,17104.0,12314.88,4789.12,0.2
+ORD0076,2025-07-13,CUST019,Meera Khan,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,4,7413.8,4818.97,2594.83,0.05
+ORD0077,2025-05-11,CUST129,Rohan Singh,South,Telangana,Hyderabad,Beauty,Shampoo,2,2564.8,1487.58,1077.22,0.2
+ORD0078,2025-11-09,CUST055,Priya Desai,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,3,1557.9,1012.64,545.26,0.1
+ORD0079,2025-10-18,CUST067,Ananya Sharma,North,Rajasthan,Jaipur,Fashion,Sneakers,3,2425.35,1503.72,921.63,0.05
+ORD0080,2025-09-20,CUST142,Ishita Verma,South,Tamil Nadu,Coimbatore,Electronics,Smart Watch,1,2633.3,1895.98,737.32,0.15
+ORD0081,2025-01-11,CUST082,Sahil Gupta,West,Gujarat,Ahmedabad,Home & Kitchen,Table Lamp,2,1368.0,889.2,478.8,0.05
+ORD0082,2025-08-14,CUST005,Sahil Joshi,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,5,8185.0,5320.25,2864.75,0.0
+ORD0083,2025-04-25,CUST120,Riya Gupta,South,Tamil Nadu,Coimbatore,Electronics,Smart Watch,1,3299.35,2375.53,923.82,0.05
+ORD0084,2025-04-19,CUST022,Karan Joshi,North,Delhi,New Delhi,Electronics,Wireless Earbuds,2,7516.8,5412.1,2104.7,0.2
+ORD0085,2025-02-03,CUST085,Aditi Iyer,East,Odisha,Bhubaneswar,Fashion,Jeans,1,1710.95,1060.79,650.16,0.05
+ORD0086,2025-08-25,CUST057,Karan Iyer,South,Karnataka,Bengaluru,Fashion,Sneakers,1,1897.2,1176.26,720.94,0.1
+ORD0087,2025-10-19,CUST130,Karan Sharma,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,3,15630.3,11253.82,4376.48,0.1
+ORD0088,2025-02-24,CUST113,Ishita Desai,South,Tamil Nadu,Coimbatore,Fashion,Jeans,5,10378.75,6434.82,3943.93,0.05
+ORD0089,2025-03-14,CUST081,Rohan Kulkarni,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,1,1626.9,1057.49,569.41,0.15
+ORD0090,2025-05-11,CUST104,Rohan Patel,East,Odisha,Bhubaneswar,Fashion,Kurti,2,963.3,597.25,366.05,0.05
+ORD0091,2025-11-01,CUST098,Ishita Mehta,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,5,27162.0,19556.64,7605.36,0.1
+ORD0092,2025-08-03,CUST083,Riya Desai,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,5,5892.0,3829.8,2062.2,0.2
+ORD0093,2025-02-16,CUST012,Aarav Iyer,East,Odisha,Bhubaneswar,Electronics,Smart Watch,2,10863.0,7821.36,3041.64,0.1
+ORD0094,2025-11-24,CUST135,Neha Mali,North,Uttar Pradesh,Lucknow,Electronics,Power Bank,2,2934.2,2112.62,821.58,0.15
+ORD0095,2025-04-13,CUST116,Arjun Mehta,South,Tamil Nadu,Chennai,Fashion,Jeans,1,2239.75,1388.64,851.11,0.15
+ORD0096,2025-12-15,CUST108,Aditya Patel,South,Tamil Nadu,Chennai,Home & Kitchen,Table Lamp,1,593.6,385.84,207.76,0.2
+ORD0097,2025-09-04,CUST055,Priya Desai,North,Rajasthan,Udaipur,Beauty,Shampoo,5,6310.0,3659.8,2650.2,0.0
+ORD0098,2025-07-04,CUST029,Sneha Das,West,Maharashtra,Mumbai,Electronics,Power Bank,4,7783.2,5603.9,2179.3,0.1
+ORD0099,2025-06-26,CUST103,Meera Iyer,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,3,1593.75,1035.94,557.81,0.15
+ORD0100,2025-03-14,CUST037,Ishita Patel,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,1,1769.85,1274.29,495.56,0.05
+ORD0101,2025-12-10,CUST124,Aditi Nair,South,Karnataka,Bengaluru,Beauty,Body Lotion,3,4843.8,2809.4,2034.4,0.1
+ORD0102,2025-11-26,CUST093,Rohan Gupta,South,Karnataka,Bengaluru,Home & Kitchen,Coffee Mug,3,2668.5,1734.53,933.97,0.25
+ORD0103,2025-08-03,CUST120,Riya Gupta,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,1,6213.0,4473.36,1739.64,0.05
+ORD0104,2025-09-26,CUST082,Sahil Gupta,West,Maharashtra,Nagpur,Home & Kitchen,Coffee Mug,5,4145.0,2694.25,1450.75,0.0
+ORD0105,2025-01-29,CUST105,Ananya Sharma,South,Telangana,Hyderabad,Electronics,Power Bank,1,1694.4,1219.97,474.43,0.2
+ORD0106,2025-08-14,CUST040,Simran Das,East,West Bengal,Kolkata,Fashion,Kurti,4,1573.2,975.38,597.82,0.1
+ORD0107,2025-10-28,CUST037,Ishita Patel,North,Uttar Pradesh,Lucknow,Beauty,Lip Balm,5,5367.75,3113.29,2254.46,0.15
+ORD0108,2025-06-17,CUST091,Meera Nair,West,Maharashtra,Pune,Fashion,Sneakers,4,3048.0,1889.76,1158.24,0.0
+ORD0109,2025-01-31,CUST007,Rahul Mehta,North,Uttar Pradesh,Lucknow,Beauty,Face Wash,2,449.6,260.77,188.83,0.2
+ORD0110,2025-06-04,CUST077,Priya Joshi,South,Tamil Nadu,Coimbatore,Electronics,Smart Watch,1,5626.8,4051.3,1575.5,0.1
+ORD0111,2025-03-15,CUST088,Arjun Desai,North,Rajasthan,Udaipur,Electronics,Smart Watch,1,2039.65,1468.55,571.1,0.05
+ORD0112,2025-08-30,CUST037,Ishita Patel,South,Karnataka,Mysuru,Electronics,Power Bank,4,22904.0,16490.88,6413.12,0.0
+ORD0113,2025-07-29,CUST138,Simran Khan,South,Karnataka,Bengaluru,Electronics,Power Bank,2,9688.3,6975.58,2712.72,0.15
+ORD0114,2025-03-20,CUST125,Ananya Singh,South,Tamil Nadu,Chennai,Electronics,Smart Watch,3,9707.1,6989.11,2717.99,0.05
+ORD0115,2025-02-08,CUST029,Sneha Das,North,Delhi,New Delhi,Fashion,T-Shirt,5,6366.5,3947.23,2419.27,0.15
+ORD0116,2025-08-24,CUST084,Vivek Reddy,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,4,6796.8,4893.7,1903.1,0.1
+ORD0117,2025-06-11,CUST131,Sneha Joshi,West,Maharashtra,Pune,Beauty,Shampoo,5,7861.5,4559.67,3301.83,0.1
+ORD0118,2025-05-25,CUST027,Nikhil Iyer,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,5,17120.0,12326.4,4793.6,0.2
+ORD0119,2025-02-15,CUST131,Sneha Joshi,North,Uttar Pradesh,Noida,Beauty,Shampoo,1,684.0,396.72,287.28,0.05
+ORD0120,2025-12-10,CUST063,Ishita Mehta,South,Karnataka,Mysuru,Fashion,Jeans,3,1271.7,788.45,483.25,0.1
+ORD0121,2025-10-16,CUST095,Karan Reddy,South,Karnataka,Mysuru,Home & Kitchen,Water Bottle,4,3495.2,2271.88,1223.32,0.15
+ORD0122,2025-03-21,CUST041,Sneha Reddy,West,Maharashtra,Mumbai,Fashion,Kurti,4,4006.8,2484.22,1522.58,0.1
+ORD0123,2025-03-18,CUST002,Nikhil Kulkarni,West,Maharashtra,Mumbai,Beauty,Body Lotion,4,1027.2,595.78,431.42,0.2
+ORD0124,2025-11-13,CUST106,Priya Sharma,South,Tamil Nadu,Coimbatore,Electronics,Bluetooth Speaker,3,3911.7,2816.42,1095.28,0.15
+ORD0125,2025-12-14,CUST041,Sneha Reddy,West,Gujarat,Surat,Beauty,Body Lotion,4,2328.0,1350.24,977.76,0.0
+ORD0126,2025-01-03,CUST084,Vivek Reddy,North,Delhi,New Delhi,Fashion,Jeans,1,413.0,256.06,156.94,0.0
+ORD0127,2025-05-27,CUST087,Meera Reddy,East,West Bengal,Kolkata,Beauty,Body Lotion,4,1753.2,1016.86,736.34,0.1
+ORD0128,2025-12-18,CUST082,Sahil Gupta,South,Karnataka,Mysuru,Home & Kitchen,Water Bottle,1,953.8,619.97,333.83,0.05
+ORD0129,2025-06-08,CUST097,Sahil Desai,South,Tamil Nadu,Coimbatore,Electronics,Wireless Earbuds,2,3340.8,2405.38,935.42,0.1
+ORD0130,2025-06-26,CUST108,Aditya Patel,North,Delhi,New Delhi,Fashion,Jeans,3,7740.9,4799.36,2941.54,0.1
+ORD0131,2025-08-31,CUST066,Nikhil Reddy,West,Gujarat,Surat,Fashion,Jeans,3,4506.3,2793.91,1712.39,0.1
+ORD0132,2025-12-21,CUST018,Sahil Iyer,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,2,1381.3,897.85,483.45,0.05
+ORD0133,2025-02-10,CUST078,Rohan Nair,West,Gujarat,Ahmedabad,Fashion,Jeans,4,6956.4,4312.97,2643.43,0.15
+ORD0134,2025-12-11,CUST084,Vivek Reddy,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,1,834.3,600.7,233.6,0.1
+ORD0135,2025-07-14,CUST045,Vivek Khan,South,Tamil Nadu,Chennai,Electronics,Smart Watch,2,11923.2,8584.7,3338.5,0.1
+ORD0136,2025-11-09,CUST020,Ananya Verma,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,4,8172.0,5311.8,2860.2,0.1
+ORD0137,2025-04-18,CUST120,Riya Gupta,South,Telangana,Hyderabad,Fashion,Kurti,3,6666.15,4133.01,2533.14,0.05
+ORD0138,2025-09-02,CUST026,Riya Singh,West,Maharashtra,Nagpur,Electronics,Wireless Earbuds,3,17613.0,12681.36,4931.64,0.05
+ORD0139,2025-02-08,CUST043,Simran Nair,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,3,4701.0,3055.65,1645.35,0.0
+ORD0140,2025-01-08,CUST045,Vivek Khan,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,2,2275.2,1478.88,796.32,0.1
+ORD0141,2025-04-29,CUST005,Sahil Joshi,South,Karnataka,Bengaluru,Home & Kitchen,Storage Box,2,3857.6,2507.44,1350.16,0.2
+ORD0142,2025-11-24,CUST047,Aarav Khan,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,1,1326.0,861.9,464.1,0.15
+ORD0143,2025-07-11,CUST105,Ananya Sharma,East,Odisha,Bhubaneswar,Fashion,Jeans,1,1285.2,796.82,488.38,0.15
+ORD0144,2025-04-12,CUST077,Priya Joshi,East,West Bengal,Kolkata,Electronics,Smart Watch,4,9133.2,6575.9,2557.3,0.1
+ORD0145,2025-08-01,CUST075,Meera Nair,West,Maharashtra,Pune,Fashion,T-Shirt,1,999.0,619.38,379.62,0.1
+ORD0146,2025-10-18,CUST093,Rohan Gupta,East,West Bengal,Kolkata,Fashion,Sneakers,4,4355.2,2700.22,1654.98,0.2
+ORD0147,2025-06-03,CUST048,Rohan Khan,West,Gujarat,Surat,Beauty,Face Wash,1,1440.2,835.32,604.88,0.05
+ORD0148,2025-01-21,CUST015,Neha Iyer,South,Tamil Nadu,Coimbatore,Home & Kitchen,Table Lamp,3,5011.2,3257.28,1753.92,0.2
+ORD0149,2025-11-20,CUST025,Karan Desai,North,Delhi,New Delhi,Beauty,Shampoo,5,7006.5,4063.77,2942.73,0.1
+ORD0150,2025-08-27,CUST117,Aditya Das,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,4,5756.2,3741.53,2014.67,0.15
+ORD0151,2025-09-20,CUST077,Priya Joshi,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,4,2220.8,1443.52,777.28,0.2
+ORD0152,2025-06-21,CUST084,Vivek Reddy,North,Delhi,New Delhi,Electronics,Smart Watch,5,27119.25,19525.86,7593.39,0.15
+ORD0153,2025-05-01,CUST026,Riya Singh,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,5,4602.75,2991.79,1610.96,0.05
+ORD0154,2025-04-10,CUST037,Ishita Patel,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,4,15022.8,10816.42,4206.38,0.1
+ORD0155,2025-04-29,CUST069,Pooja Joshi,West,Maharashtra,Nagpur,Beauty,Face Wash,5,7551.0,4379.58,3171.42,0.1
+ORD0156,2025-09-11,CUST138,Simran Khan,East,West Bengal,Kolkata,Fashion,T-Shirt,1,1481.55,918.56,562.99,0.15
+ORD0157,2025-08-29,CUST067,Ananya Sharma,East,Odisha,Bhubaneswar,Fashion,Kurti,3,2967.3,1839.73,1127.57,0.1
+ORD0158,2025-08-17,CUST032,Kavya Mehta,South,Tamil Nadu,Chennai,Electronics,Power Bank,1,6226.2,4482.86,1743.34,0.1
+ORD0159,2025-01-27,CUST013,Ishita Khan,West,Maharashtra,Pune,Home & Kitchen,Table Lamp,5,8257.5,5367.38,2890.12,0.1
+ORD0160,2025-05-10,CUST125,Ananya Singh,East,Odisha,Bhubaneswar,Fashion,Jeans,4,6528.0,4047.36,2480.64,0.0
+ORD0161,2025-10-14,CUST044,Kavya Das,East,Odisha,Bhubaneswar,Beauty,Face Wash,1,215.9,125.22,90.68,0.15
+ORD0162,2025-01-30,CUST145,Ananya Mali,South,Telangana,Hyderabad,Home & Kitchen,Table Lamp,5,8055.0,5235.75,2819.25,0.1
+ORD0163,2025-08-19,CUST121,Arjun Das,North,Uttar Pradesh,Noida,Home & Kitchen,Coffee Mug,1,1773.0,1152.45,620.55,0.0
+ORD0164,2025-12-27,CUST036,Kavya Desai,West,Maharashtra,Nagpur,Electronics,Smart Watch,5,16726.5,12043.08,4683.42,0.1
+ORD0165,2025-12-08,CUST055,Priya Desai,South,Karnataka,Bengaluru,Home & Kitchen,Storage Box,4,939.6,610.74,328.86,0.1
+ORD0166,2025-05-14,CUST082,Sahil Gupta,North,Rajasthan,Udaipur,Beauty,Body Lotion,3,1614.6,936.47,678.13,0.1
+ORD0167,2025-09-13,CUST066,Nikhil Reddy,West,Gujarat,Ahmedabad,Fashion,Sneakers,2,3816.0,2365.92,1450.08,0.2
+ORD0168,2025-01-25,CUST095,Karan Reddy,West,Maharashtra,Pune,Beauty,Body Lotion,5,4882.5,2831.85,2050.65,0.25
+ORD0169,2025-06-09,CUST012,Aarav Iyer,North,Delhi,New Delhi,Fashion,Sneakers,5,3101.75,1923.09,1178.66,0.05
+ORD0170,2025-09-24,CUST005,Sahil Joshi,North,Rajasthan,Udaipur,Fashion,Jeans,2,3525.0,2185.5,1339.5,0.25
+ORD0171,2025-06-05,CUST083,Riya Desai,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,3,3117.6,2244.67,872.93,0.2
+ORD0172,2025-05-04,CUST103,Meera Iyer,North,Delhi,New Delhi,Electronics,Power Bank,2,4334.4,3120.77,1213.63,0.1
+ORD0173,2025-03-27,CUST092,Karan Mali,South,Karnataka,Mysuru,Electronics,Wireless Earbuds,5,24772.5,17836.2,6936.3,0.1
+ORD0174,2025-03-06,CUST079,Nikhil Kulkarni,North,Uttar Pradesh,Noida,Home & Kitchen,Table Lamp,5,11350.0,7377.5,3972.5,0.0
+ORD0175,2025-10-09,CUST139,Meera Iyer,North,Uttar Pradesh,Noida,Electronics,Wireless Earbuds,4,5202.0,3745.44,1456.56,0.1
+ORD0176,2025-07-11,CUST042,Sneha Verma,North,Uttar Pradesh,Noida,Beauty,Face Wash,1,262.4,152.19,110.21,0.2
+ORD0177,2025-08-20,CUST048,Rohan Khan,West,Maharashtra,Pune,Beauty,Lip Balm,5,3931.25,2280.12,1651.13,0.15
+ORD0178,2025-03-10,CUST079,Nikhil Kulkarni,West,Maharashtra,Nagpur,Fashion,Kurti,4,5724.0,3548.88,2175.12,0.0
+ORD0179,2025-06-01,CUST043,Simran Nair,West,Maharashtra,Mumbai,Home & Kitchen,Storage Box,1,360.75,234.49,126.26,0.25
+ORD0180,2025-09-18,CUST143,Priya Kulkarni,North,Rajasthan,Jaipur,Home & Kitchen,Storage Box,5,7965.0,5177.25,2787.75,0.0
+ORD0181,2025-11-25,CUST112,Riya Verma,West,Maharashtra,Nagpur,Home & Kitchen,Table Lamp,2,3946.3,2565.1,1381.2,0.05
+ORD0182,2025-07-09,CUST105,Ananya Sharma,East,West Bengal,Kolkata,Beauty,Shampoo,2,3422.0,1984.76,1437.24,0.0
+ORD0183,2025-10-15,CUST013,Ishita Khan,North,Uttar Pradesh,Noida,Home & Kitchen,Table Lamp,4,3084.0,2004.6,1079.4,0.0
+ORD0184,2025-11-30,CUST146,Simran Mali,South,Tamil Nadu,Chennai,Fashion,Kurti,4,10871.8,6740.52,4131.28,0.05
+ORD0185,2025-02-01,CUST113,Ishita Desai,South,Telangana,Hyderabad,Beauty,Body Lotion,1,1539.0,892.62,646.38,0.05
+ORD0186,2025-05-15,CUST126,Rahul Mali,South,Telangana,Hyderabad,Home & Kitchen,Coffee Mug,4,1717.0,1116.05,600.95,0.15
+ORD0187,2025-09-15,CUST089,Rohan Reddy,South,Karnataka,Mysuru,Electronics,Smart Watch,5,24738.0,17811.36,6926.64,0.05
+ORD0188,2025-07-03,CUST088,Arjun Desai,South,Karnataka,Bengaluru,Home & Kitchen,Water Bottle,3,5905.8,3838.77,2067.03,0.15
+ORD0189,2025-05-16,CUST039,Rahul Reddy,East,West Bengal,Kolkata,Home & Kitchen,Storage Box,2,3438.4,2234.96,1203.44,0.2
+ORD0190,2025-12-28,CUST132,Kavya Mehta,South,Telangana,Hyderabad,Electronics,Power Bank,2,7585.4,5461.49,2123.91,0.15
+ORD0191,2025-03-27,CUST066,Nikhil Reddy,East,West Bengal,Kolkata,Fashion,T-Shirt,2,1212.1,751.5,460.6,0.15
+ORD0192,2025-08-11,CUST121,Arjun Das,North,Delhi,New Delhi,Fashion,Kurti,3,2797.35,1734.36,1062.99,0.15
+ORD0193,2025-10-20,CUST138,Simran Khan,South,Telangana,Hyderabad,Electronics,Smart Watch,5,29085.0,20941.2,8143.8,0.0
+ORD0194,2025-04-29,CUST004,Rohan Desai,East,West Bengal,Kolkata,Fashion,T-Shirt,4,3330.0,2064.6,1265.4,0.1
+ORD0195,2025-06-07,CUST132,Kavya Mehta,South,Telangana,Hyderabad,Home & Kitchen,Coffee Mug,2,556.2,361.53,194.67,0.1
+ORD0196,2025-01-30,CUST110,Priya Sharma,North,Rajasthan,Udaipur,Home & Kitchen,Table Lamp,2,2010.6,1306.89,703.71,0.1
+ORD0197,2025-11-15,CUST094,Sneha Kulkarni,South,Tamil Nadu,Chennai,Fashion,Jeans,4,2975.0,1844.5,1130.5,0.15
+ORD0198,2025-08-28,CUST118,Aditi Mehta,West,Maharashtra,Mumbai,Home & Kitchen,Table Lamp,3,4671.6,3036.54,1635.06,0.15
+ORD0199,2025-03-02,CUST103,Meera Iyer,East,West Bengal,Kolkata,Beauty,Face Wash,2,770.1,446.66,323.44,0.15
+ORD0200,2025-10-29,CUST081,Rohan Kulkarni,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,2,10036.8,7226.5,2810.3,0.1
+ORD0201,2025-05-06,CUST005,Sahil Joshi,North,Delhi,New Delhi,Electronics,Power Bank,2,7368.2,5305.1,2063.1,0.05
+ORD0202,2025-02-05,CUST060,Riya Sharma,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,5,4335.0,2817.75,1517.25,0.0
+ORD0203,2025-12-02,CUST135,Neha Mali,North,Rajasthan,Jaipur,Beauty,Lip Balm,2,1872.0,1085.76,786.24,0.1
+ORD0204,2025-01-21,CUST107,Aditya Kulkarni,North,Delhi,New Delhi,Home & Kitchen,Storage Box,4,5684.8,3695.12,1989.68,0.15
+ORD0205,2025-06-03,CUST148,Aarav Mehta,South,Telangana,Hyderabad,Fashion,Kurti,4,4662.0,2890.44,1771.56,0.1
+ORD0206,2025-11-01,CUST021,Sahil Joshi,West,Gujarat,Ahmedabad,Home & Kitchen,Coffee Mug,3,2479.5,1611.67,867.83,0.25
+ORD0207,2025-11-23,CUST117,Aditya Das,North,Delhi,New Delhi,Fashion,T-Shirt,1,1878.3,1164.55,713.75,0.1
+ORD0208,2025-01-17,CUST043,Simran Nair,East,West Bengal,Kolkata,Home & Kitchen,Water Bottle,2,804.6,522.99,281.61,0.1
+ORD0209,2025-03-07,CUST085,Aditi Iyer,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,2,1162.8,755.82,406.98,0.15
+ORD0210,2025-02-28,CUST076,Rahul Reddy,South,Telangana,Hyderabad,Home & Kitchen,Coffee Mug,2,3997.6,2598.44,1399.16,0.05
+ORD0211,2025-08-02,CUST135,Neha Mali,North,Uttar Pradesh,Noida,Fashion,Sneakers,5,5314.5,3294.99,2019.51,0.1
+ORD0212,2025-02-13,CUST066,Nikhil Reddy,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,1,2105.45,1515.92,589.53,0.15
+ORD0213,2025-09-24,CUST089,Rohan Reddy,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,4,2465.0,1602.25,862.75,0.15
+ORD0214,2025-08-26,CUST085,Aditi Iyer,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,2,1974.6,1283.49,691.11,0.1
+ORD0215,2025-08-08,CUST027,Nikhil Iyer,West,Gujarat,Ahmedabad,Beauty,Face Wash,1,842.65,488.74,353.91,0.05
+ORD0216,2025-05-17,CUST004,Rohan Desai,South,Karnataka,Mysuru,Electronics,Power Bank,4,20778.0,14960.16,5817.84,0.25
+ORD0217,2025-08-11,CUST021,Sahil Joshi,West,Gujarat,Surat,Beauty,Body Lotion,3,1656.0,960.48,695.52,0.0
+ORD0218,2025-08-15,CUST148,Aarav Mehta,West,Gujarat,Surat,Electronics,Wireless Earbuds,5,20011.5,14408.28,5603.22,0.1
+ORD0219,2025-12-30,CUST060,Riya Sharma,East,West Bengal,Kolkata,Fashion,Kurti,4,5276.8,3271.62,2005.18,0.2
+ORD0220,2025-09-05,CUST030,Ananya Reddy,East,Odisha,Bhubaneswar,Electronics,Power Bank,2,1960.2,1411.34,548.86,0.1
+ORD0221,2025-06-25,CUST082,Sahil Gupta,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,1,457.3,297.25,160.05,0.15
+ORD0222,2025-07-20,CUST066,Nikhil Reddy,North,Rajasthan,Udaipur,Electronics,Bluetooth Speaker,4,20476.0,14742.72,5733.28,0.0
+ORD0223,2025-10-21,CUST067,Ananya Sharma,North,Delhi,New Delhi,Beauty,Shampoo,5,3130.25,1815.54,1314.71,0.05
+ORD0224,2025-04-25,CUST137,Simran Desai,North,Rajasthan,Udaipur,Home & Kitchen,Coffee Mug,1,1544.4,1003.86,540.54,0.1
+ORD0225,2025-02-04,CUST038,Neha Reddy,North,Delhi,New Delhi,Fashion,Jeans,3,7338.0,4549.56,2788.44,0.0
+ORD0226,2025-03-24,CUST088,Arjun Desai,East,Odisha,Bhubaneswar,Beauty,Body Lotion,3,1449.0,840.42,608.58,0.0
+ORD0227,2025-05-01,CUST071,Nikhil Desai,East,West Bengal,Kolkata,Fashion,Kurti,4,3028.6,1877.73,1150.87,0.05
+ORD0228,2025-11-04,CUST030,Ananya Reddy,East,West Bengal,Kolkata,Electronics,Power Bank,1,6339.35,4564.33,1775.02,0.05
+ORD0229,2025-09-21,CUST041,Sneha Reddy,North,Delhi,New Delhi,Electronics,Power Bank,2,11910.6,8575.63,3334.97,0.1
+ORD0230,2025-03-05,CUST062,Priya Mali,West,Maharashtra,Pune,Fashion,Kurti,2,4161.0,2579.82,1581.18,0.05
+ORD0231,2025-07-20,CUST101,Aditya Reddy,North,Rajasthan,Udaipur,Electronics,Wireless Earbuds,5,34620.0,24926.4,9693.6,0.0
+ORD0232,2025-11-28,CUST065,Ananya Verma,South,Telangana,Hyderabad,Fashion,Kurti,4,8724.8,5409.38,3315.42,0.05
+ORD0233,2025-10-03,CUST150,Aditya Mehta,South,Telangana,Hyderabad,Beauty,Body Lotion,1,1594.1,924.58,669.52,0.05
+ORD0234,2025-07-13,CUST004,Rohan Desai,South,Karnataka,Mysuru,Fashion,Jeans,2,3211.2,1990.94,1220.26,0.1
+ORD0235,2025-12-28,CUST145,Ananya Mali,South,Karnataka,Mysuru,Beauty,Shampoo,1,809.2,469.34,339.86,0.15
+ORD0236,2025-06-26,CUST142,Ishita Verma,North,Rajasthan,Udaipur,Electronics,Power Bank,5,28480.0,20505.6,7974.4,0.0
+ORD0237,2025-10-22,CUST136,Rohan Iyer,North,Delhi,New Delhi,Electronics,Smart Watch,5,21276.0,15318.72,5957.28,0.1
+ORD0238,2025-11-01,CUST054,Aarav Kulkarni,East,West Bengal,Kolkata,Fashion,T-Shirt,1,2212.0,1371.44,840.56,0.0
+ORD0239,2025-02-14,CUST011,Aditi Patel,North,Rajasthan,Jaipur,Electronics,Smart Watch,1,3518.15,2533.07,985.08,0.15
+ORD0240,2025-09-07,CUST109,Riya Iyer,West,Maharashtra,Mumbai,Home & Kitchen,Table Lamp,5,1797.75,1168.54,629.21,0.15
+ORD0241,2025-06-10,CUST084,Vivek Reddy,West,Gujarat,Surat,Electronics,Smart Watch,4,5374.8,3869.86,1504.94,0.1
+ORD0242,2025-09-15,CUST113,Ishita Desai,West,Maharashtra,Pune,Fashion,T-Shirt,5,2704.5,1676.79,1027.71,0.1
+ORD0243,2025-09-16,CUST051,Arjun Mali,South,Karnataka,Bengaluru,Home & Kitchen,Table Lamp,4,6760.8,4394.52,2366.28,0.1
+ORD0244,2025-08-23,CUST040,Simran Das,West,Gujarat,Ahmedabad,Home & Kitchen,Table Lamp,1,1337.4,869.31,468.09,0.1
+ORD0245,2025-10-04,CUST023,Kavya Singh,South,Telangana,Hyderabad,Home & Kitchen,Table Lamp,3,1778.4,1155.96,622.44,0.05
+ORD0246,2025-06-21,CUST122,Simran Sharma,West,Gujarat,Surat,Home & Kitchen,Table Lamp,1,517.65,336.47,181.18,0.15
+ORD0247,2025-06-16,CUST057,Karan Iyer,South,Karnataka,Mysuru,Fashion,Sneakers,2,730.8,453.1,277.7,0.1
+ORD0248,2025-05-06,CUST148,Aarav Mehta,North,Rajasthan,Jaipur,Fashion,Jeans,3,6018.3,3731.35,2286.95,0.1
+ORD0249,2025-01-31,CUST116,Arjun Mehta,South,Telangana,Hyderabad,Beauty,Face Wash,4,3936.8,2283.34,1653.46,0.05
+ORD0250,2025-06-04,CUST088,Arjun Desai,North,Rajasthan,Jaipur,Electronics,Smart Watch,3,5823.9,4193.21,1630.69,0.1
+ORD0251,2025-02-06,CUST030,Ananya Reddy,East,Odisha,Bhubaneswar,Beauty,Face Wash,2,600.0,348.0,252.0,0.25
+ORD0252,2025-10-05,CUST077,Priya Joshi,North,Delhi,New Delhi,Electronics,Power Bank,4,15352.0,11053.44,4298.56,0.05
+ORD0253,2025-04-19,CUST053,Ananya Mali,South,Tamil Nadu,Chennai,Fashion,Jeans,3,2109.0,1307.58,801.42,0.05
+ORD0254,2025-10-07,CUST139,Meera Iyer,South,Tamil Nadu,Coimbatore,Fashion,Sneakers,5,6903.0,4279.86,2623.14,0.1
+ORD0255,2025-09-06,CUST017,Nikhil Reddy,North,Rajasthan,Udaipur,Fashion,Jeans,2,1128.0,699.36,428.64,0.0
+ORD0256,2025-03-05,CUST145,Ananya Mali,North,Uttar Pradesh,Noida,Beauty,Shampoo,3,4276.8,2480.54,1796.26,0.2
+ORD0257,2025-07-03,CUST149,Meera Kulkarni,South,Karnataka,Bengaluru,Fashion,T-Shirt,4,2871.0,1780.02,1090.98,0.25
+ORD0258,2025-11-04,CUST115,Rahul Joshi,North,Rajasthan,Udaipur,Beauty,Lip Balm,2,1090.8,632.66,458.14,0.1
+ORD0259,2025-12-31,CUST082,Sahil Gupta,North,Rajasthan,Jaipur,Home & Kitchen,Table Lamp,3,6339.0,4120.35,2218.65,0.0
+ORD0260,2025-03-04,CUST081,Rohan Kulkarni,West,Maharashtra,Mumbai,Beauty,Shampoo,3,4893.45,2838.2,2055.25,0.05
+ORD0261,2025-02-23,CUST114,Aditi Joshi,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,2,12292.2,8850.38,3441.82,0.1
+ORD0262,2025-10-30,CUST035,Neha Singh,South,Telangana,Hyderabad,Fashion,Jeans,3,7726.35,4790.34,2936.01,0.05
+ORD0263,2025-01-01,CUST135,Neha Mali,North,Rajasthan,Jaipur,Fashion,T-Shirt,5,9209.75,5710.05,3499.7,0.15
+ORD0264,2025-01-23,CUST127,Ananya Das,West,Maharashtra,Nagpur,Home & Kitchen,Table Lamp,1,629.85,409.4,220.45,0.05
+ORD0265,2025-10-17,CUST072,Neha Iyer,North,Rajasthan,Udaipur,Home & Kitchen,Water Bottle,5,6631.0,4310.15,2320.85,0.05
+ORD0266,2025-12-24,CUST145,Ananya Mali,South,Tamil Nadu,Coimbatore,Home & Kitchen,Table Lamp,4,4886.8,3176.42,1710.38,0.05
+ORD0267,2025-04-30,CUST034,Aditi Gupta,South,Tamil Nadu,Chennai,Home & Kitchen,Coffee Mug,3,5829.0,3788.85,2040.15,0.0
+ORD0268,2025-01-31,CUST147,Meera Mehta,North,Uttar Pradesh,Lucknow,Home & Kitchen,Coffee Mug,1,1461.15,949.75,511.4,0.15
+ORD0269,2025-01-14,CUST054,Aarav Kulkarni,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,2,2331.0,1515.15,815.85,0.1
+ORD0270,2025-10-17,CUST059,Sneha Iyer,South,Tamil Nadu,Coimbatore,Electronics,Bluetooth Speaker,2,10163.1,7317.43,2845.67,0.05
+ORD0271,2025-10-21,CUST093,Rohan Gupta,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,1,1013.65,658.87,354.78,0.05
+ORD0272,2025-05-17,CUST121,Arjun Das,East,West Bengal,Kolkata,Fashion,Kurti,3,1984.8,1230.58,754.22,0.2
+ORD0273,2025-06-28,CUST051,Arjun Mali,North,Rajasthan,Jaipur,Fashion,Sneakers,5,3262.5,2022.75,1239.75,0.25
+ORD0274,2025-08-23,CUST120,Riya Gupta,South,Tamil Nadu,Coimbatore,Electronics,Wireless Earbuds,5,26010.0,18727.2,7282.8,0.15
+ORD0275,2025-07-30,CUST094,Sneha Kulkarni,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,4,6648.0,4786.56,1861.44,0.25
+ORD0276,2025-05-26,CUST028,Rohan Iyer,East,West Bengal,Kolkata,Fashion,Sneakers,3,3243.6,2011.03,1232.57,0.15
+ORD0277,2025-05-17,CUST141,Aarav Reddy,North,Delhi,New Delhi,Beauty,Lip Balm,1,1124.55,652.24,472.31,0.15
+ORD0278,2025-10-01,CUST137,Simran Desai,South,Telangana,Hyderabad,Beauty,Lip Balm,3,3498.6,2029.19,1469.41,0.15
+ORD0279,2025-08-23,CUST054,Aarav Kulkarni,South,Karnataka,Bengaluru,Beauty,Lip Balm,3,683.1,396.2,286.9,0.1
+ORD0280,2025-04-12,CUST044,Kavya Das,North,Uttar Pradesh,Noida,Electronics,Wireless Earbuds,2,5229.0,3764.88,1464.12,0.1
+ORD0281,2025-08-16,CUST017,Nikhil Reddy,South,Karnataka,Mysuru,Electronics,Bluetooth Speaker,2,7902.1,5689.51,2212.59,0.05
+ORD0282,2025-06-30,CUST104,Rohan Patel,East,Odisha,Bhubaneswar,Beauty,Body Lotion,2,3123.6,1811.69,1311.91,0.05
+ORD0283,2025-05-06,CUST033,Rahul Patel,South,Tamil Nadu,Coimbatore,Electronics,Wireless Earbuds,4,19641.0,14141.52,5499.48,0.25
+ORD0284,2025-08-13,CUST111,Aarav Mali,North,Rajasthan,Jaipur,Fashion,Sneakers,1,1503.2,931.98,571.22,0.2
+ORD0285,2025-08-06,CUST098,Ishita Mehta,West,Gujarat,Surat,Fashion,Sneakers,4,5191.8,3218.92,1972.88,0.15
+ORD0286,2025-10-15,CUST096,Priya Sharma,North,Delhi,New Delhi,Fashion,Kurti,4,2148.8,1332.26,816.54,0.15
+ORD0287,2025-10-28,CUST106,Priya Sharma,East,West Bengal,Kolkata,Home & Kitchen,Coffee Mug,3,3821.85,2484.2,1337.65,0.05
+ORD0288,2025-07-07,CUST065,Ananya Verma,West,Maharashtra,Nagpur,Beauty,Lip Balm,1,1245.25,722.25,523.0,0.15
+ORD0289,2025-09-05,CUST114,Aditi Joshi,North,Uttar Pradesh,Noida,Home & Kitchen,Storage Box,1,1976.4,1284.66,691.74,0.1
+ORD0290,2025-03-03,CUST122,Simran Sharma,North,Uttar Pradesh,Noida,Electronics,Smart Watch,2,6173.1,4444.63,1728.47,0.05
+ORD0291,2025-04-18,CUST093,Rohan Gupta,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,1,4250.7,3060.5,1190.2,0.1
+ORD0292,2025-09-09,CUST070,Karan Das,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,3,9161.1,6595.99,2565.11,0.1
+ORD0293,2025-06-03,CUST019,Meera Khan,South,Tamil Nadu,Chennai,Electronics,Smart Watch,4,5468.4,3937.25,1531.15,0.1
+ORD0294,2025-01-08,CUST017,Nikhil Reddy,North,Uttar Pradesh,Noida,Beauty,Shampoo,5,3296.5,1911.97,1384.53,0.05
+ORD0295,2025-12-08,CUST039,Rahul Reddy,West,Maharashtra,Nagpur,Beauty,Body Lotion,5,7969.5,4622.31,3347.19,0.1
+ORD0296,2025-10-05,CUST104,Rohan Patel,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,5,9630.0,6259.5,3370.5,0.0
+ORD0297,2025-05-09,CUST009,Riya Mehta,South,Karnataka,Mysuru,Beauty,Body Lotion,1,512.55,297.28,215.27,0.15
+ORD0298,2025-01-17,CUST099,Nikhil Kulkarni,West,Maharashtra,Nagpur,Fashion,Jeans,2,927.0,574.74,352.26,0.1
+ORD0299,2025-12-31,CUST068,Priya Desai,West,Maharashtra,Pune,Beauty,Body Lotion,4,5056.0,2932.48,2123.52,0.0
+ORD0300,2025-08-25,CUST122,Simran Sharma,West,Maharashtra,Mumbai,Electronics,Power Bank,1,3312.0,2384.64,927.36,0.1
+ORD0301,2025-04-19,CUST149,Meera Kulkarni,North,Rajasthan,Udaipur,Home & Kitchen,Storage Box,4,8823.6,5735.34,3088.26,0.1
+ORD0302,2025-04-26,CUST132,Kavya Mehta,South,Tamil Nadu,Coimbatore,Beauty,Body Lotion,5,4070.0,2360.6,1709.4,0.0
+ORD0303,2025-07-14,CUST068,Priya Desai,East,Odisha,Bhubaneswar,Beauty,Face Wash,3,3536.85,2051.37,1485.48,0.15
+ORD0304,2025-10-17,CUST024,Pooja Patel,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,1,528.0,343.2,184.8,0.0
+ORD0305,2025-07-07,CUST062,Priya Mali,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,5,22781.0,16402.32,6378.68,0.05
+ORD0306,2025-11-28,CUST003,Sneha Nair,North,Rajasthan,Udaipur,Home & Kitchen,Table Lamp,3,5706.9,3709.48,1997.42,0.15
+ORD0307,2025-07-25,CUST030,Ananya Reddy,North,Uttar Pradesh,Lucknow,Electronics,Bluetooth Speaker,1,4941.9,3558.17,1383.73,0.1
+ORD0308,2025-06-11,CUST016,Simran Das,South,Tamil Nadu,Chennai,Home & Kitchen,Table Lamp,1,1558.05,1012.73,545.32,0.15
+ORD0309,2025-07-10,CUST123,Karan Iyer,North,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,1,3334.5,2400.84,933.66,0.05
+ORD0310,2025-06-16,CUST015,Neha Iyer,South,Tamil Nadu,Chennai,Home & Kitchen,Storage Box,5,4807.0,3124.55,1682.45,0.05
+ORD0311,2025-01-03,CUST141,Aarav Reddy,South,Karnataka,Mysuru,Home & Kitchen,Water Bottle,1,1937.7,1259.51,678.19,0.1
+ORD0312,2025-02-01,CUST065,Ananya Verma,West,Maharashtra,Nagpur,Fashion,Sneakers,4,2457.6,1523.71,933.89,0.2
+ORD0313,2025-07-08,CUST078,Rohan Nair,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,4,4968.0,3229.2,1738.8,0.0
+ORD0314,2025-05-27,CUST027,Nikhil Iyer,South,Karnataka,Mysuru,Electronics,Power Bank,4,17339.4,12484.37,4855.03,0.05
+ORD0315,2025-11-24,CUST002,Nikhil Kulkarni,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,3,3781.65,2458.07,1323.58,0.15
+ORD0316,2025-11-27,CUST124,Aditi Nair,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,5,4156.0,2992.32,1163.68,0.2
+ORD0317,2025-02-19,CUST069,Pooja Joshi,South,Karnataka,Mysuru,Home & Kitchen,Coffee Mug,1,2369.3,1540.05,829.25,0.05
+ORD0318,2025-08-03,CUST033,Rahul Patel,North,Delhi,New Delhi,Home & Kitchen,Storage Box,3,2875.65,1869.17,1006.48,0.05
+ORD0319,2025-08-06,CUST082,Sahil Gupta,East,Odisha,Bhubaneswar,Beauty,Lip Balm,5,8965.0,5199.7,3765.3,0.0
+ORD0320,2025-08-07,CUST062,Priya Mali,East,West Bengal,Kolkata,Home & Kitchen,Coffee Mug,1,924.3,600.79,323.51,0.1
+ORD0321,2025-06-03,CUST002,Nikhil Kulkarni,South,Telangana,Hyderabad,Home & Kitchen,Coffee Mug,3,2065.5,1342.58,722.92,0.25
+ORD0322,2025-11-18,CUST041,Sneha Reddy,South,Karnataka,Mysuru,Fashion,Sneakers,5,6617.25,4102.69,2514.56,0.15
+ORD0323,2025-09-15,CUST096,Priya Sharma,South,Karnataka,Bengaluru,Fashion,Kurti,5,6702.25,4155.39,2546.86,0.15
+ORD0324,2025-09-05,CUST059,Sneha Iyer,South,Karnataka,Bengaluru,Beauty,Shampoo,4,1642.2,952.48,689.72,0.15
+ORD0325,2025-06-13,CUST045,Vivek Khan,North,Delhi,New Delhi,Beauty,Face Wash,3,2873.85,1666.83,1207.02,0.15
+ORD0326,2025-06-27,CUST145,Ananya Mali,East,Odisha,Bhubaneswar,Electronics,Smart Watch,3,7635.15,5497.31,2137.84,0.05
+ORD0327,2025-09-05,CUST093,Rohan Gupta,East,West Bengal,Kolkata,Fashion,Kurti,4,1502.8,931.74,571.06,0.15
+ORD0328,2025-02-16,CUST039,Rahul Reddy,West,Maharashtra,Mumbai,Beauty,Lip Balm,1,1001.0,580.58,420.42,0.0
+ORD0329,2025-11-27,CUST061,Simran Joshi,West,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,2,4046.4,2913.41,1132.99,0.2
+ORD0330,2025-06-23,CUST019,Meera Khan,North,Delhi,New Delhi,Beauty,Face Wash,3,2165.4,1255.93,909.47,0.1
+ORD0331,2025-10-11,CUST073,Vivek Mali,South,Karnataka,Bengaluru,Fashion,T-Shirt,1,2546.6,1578.89,967.71,0.15
+ORD0332,2025-08-18,CUST002,Nikhil Kulkarni,East,Odisha,Bhubaneswar,Electronics,Power Bank,2,2684.3,1932.7,751.6,0.15
+ORD0333,2025-07-05,CUST018,Sahil Iyer,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,1,5601.6,4033.15,1568.45,0.1
+ORD0334,2025-11-07,CUST088,Arjun Desai,North,Delhi,New Delhi,Electronics,Wireless Earbuds,3,14325.6,10314.43,4011.17,0.2
+ORD0335,2025-08-30,CUST085,Aditi Iyer,North,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,3,8563.2,6165.5,2397.7,0.2
+ORD0336,2025-11-08,CUST129,Rohan Singh,North,Delhi,New Delhi,Beauty,Shampoo,2,468.0,271.44,196.56,0.1
+ORD0337,2025-10-29,CUST052,Aditya Mehta,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,5,10237.5,6654.38,3583.12,0.1
+ORD0338,2025-01-06,CUST039,Rahul Reddy,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,3,7334.4,5280.77,2053.63,0.2
+ORD0339,2025-11-09,CUST087,Meera Reddy,West,Maharashtra,Nagpur,Fashion,Jeans,1,1995.0,1236.9,758.1,0.05
+ORD0340,2025-01-18,CUST104,Rohan Patel,North,Uttar Pradesh,Noida,Fashion,Sneakers,1,985.15,610.79,374.36,0.05
+ORD0341,2025-01-28,CUST115,Rahul Joshi,North,Delhi,New Delhi,Electronics,Smart Watch,3,8986.05,6469.96,2516.09,0.05
+ORD0342,2025-01-19,CUST072,Neha Iyer,East,West Bengal,Kolkata,Fashion,Jeans,3,7472.7,4633.07,2839.63,0.05
+ORD0343,2025-04-03,CUST098,Ishita Mehta,North,Rajasthan,Jaipur,Beauty,Body Lotion,5,3866.25,2242.42,1623.83,0.25
+ORD0344,2025-09-26,CUST039,Rahul Reddy,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,5,5951.25,3868.31,2082.94,0.25
+ORD0345,2025-07-26,CUST062,Priya Mali,West,Maharashtra,Nagpur,Electronics,Wireless Earbuds,5,23000.0,16560.0,6440.0,0.0
+ORD0346,2025-03-27,CUST073,Vivek Mali,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,1,1324.8,861.12,463.68,0.1
+ORD0347,2025-05-19,CUST147,Meera Mehta,West,Gujarat,Ahmedabad,Beauty,Shampoo,5,7275.0,4219.5,3055.5,0.0
+ORD0348,2025-07-23,CUST128,Sahil Singh,West,Gujarat,Surat,Electronics,Smart Watch,1,5857.35,4217.29,1640.06,0.15
+ORD0349,2025-01-20,CUST082,Sahil Gupta,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,5,9558.0,6212.7,3345.3,0.1
+ORD0350,2025-05-12,CUST064,Ananya Sharma,South,Telangana,Hyderabad,Electronics,Smart Watch,3,16567.2,11928.38,4638.82,0.2
+ORD0351,2025-05-16,CUST137,Simran Desai,West,Gujarat,Ahmedabad,Electronics,Power Bank,1,976.65,703.19,273.46,0.15
+ORD0352,2025-07-30,CUST039,Rahul Reddy,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,4,4921.6,3199.04,1722.56,0.2
+ORD0353,2025-12-12,CUST145,Ananya Mali,South,Tamil Nadu,Chennai,Fashion,Sneakers,4,8284.0,5136.08,3147.92,0.05
+ORD0354,2025-11-09,CUST013,Ishita Khan,South,Karnataka,Mysuru,Electronics,Bluetooth Speaker,5,7416.0,5339.52,2076.48,0.2
+ORD0355,2025-12-12,CUST044,Kavya Das,West,Maharashtra,Pune,Home & Kitchen,Table Lamp,2,4482.1,2913.37,1568.73,0.05
+ORD0356,2025-04-20,CUST061,Simran Joshi,West,Maharashtra,Pune,Electronics,Power Bank,5,7743.5,5575.32,2168.18,0.15
+ORD0357,2025-12-23,CUST023,Kavya Singh,South,Tamil Nadu,Coimbatore,Home & Kitchen,Coffee Mug,4,2307.6,1499.94,807.66,0.1
+ORD0358,2025-03-20,CUST022,Karan Joshi,South,Karnataka,Bengaluru,Beauty,Shampoo,5,4954.5,2873.61,2080.89,0.1
+ORD0359,2025-04-14,CUST110,Priya Sharma,South,Telangana,Hyderabad,Fashion,T-Shirt,5,11685.0,7244.7,4440.3,0.0
+ORD0360,2025-10-14,CUST027,Nikhil Iyer,North,Delhi,New Delhi,Beauty,Face Wash,3,3015.3,1748.87,1266.43,0.05
+ORD0361,2025-10-31,CUST143,Priya Kulkarni,West,Maharashtra,Nagpur,Electronics,Bluetooth Speaker,5,15937.5,11475.0,4462.5,0.15
+ORD0362,2025-12-21,CUST100,Karan Singh,South,Tamil Nadu,Chennai,Fashion,Jeans,3,2825.4,1751.75,1073.65,0.15
+ORD0363,2025-06-02,CUST061,Simran Joshi,North,Rajasthan,Jaipur,Home & Kitchen,Water Bottle,4,3240.0,2106.0,1134.0,0.1
+ORD0364,2025-09-03,CUST059,Sneha Iyer,North,Uttar Pradesh,Lucknow,Fashion,Jeans,1,2109.6,1307.95,801.65,0.1
+ORD0365,2025-03-16,CUST146,Simran Mali,South,Tamil Nadu,Coimbatore,Fashion,Kurti,5,6930.0,4296.6,2633.4,0.25
+ORD0366,2025-07-12,CUST150,Aditya Mehta,North,Rajasthan,Jaipur,Home & Kitchen,Table Lamp,4,1299.6,844.74,454.86,0.05
+ORD0367,2025-02-12,CUST148,Aarav Mehta,West,Gujarat,Surat,Electronics,Bluetooth Speaker,4,7100.8,5112.58,1988.22,0.2
+ORD0368,2025-10-19,CUST090,Aarav Sharma,West,Gujarat,Ahmedabad,Home & Kitchen,Coffee Mug,2,2473.8,1607.97,865.83,0.05
+ORD0369,2025-11-14,CUST128,Sahil Singh,North,Delhi,New Delhi,Beauty,Lip Balm,3,3728.1,2162.3,1565.8,0.15
+ORD0370,2025-10-20,CUST088,Arjun Desai,East,West Bengal,Kolkata,Beauty,Lip Balm,2,1370.2,794.72,575.48,0.15
+ORD0371,2025-04-29,CUST110,Priya Sharma,North,Delhi,New Delhi,Fashion,T-Shirt,4,4766.4,2955.17,1811.23,0.1
+ORD0372,2025-02-19,CUST071,Nikhil Desai,East,Odisha,Bhubaneswar,Electronics,Power Bank,2,10006.2,7204.46,2801.74,0.1
+ORD0373,2025-04-03,CUST056,Rohan Desai,South,Tamil Nadu,Coimbatore,Electronics,Power Bank,4,6196.0,4461.12,1734.88,0.0
+ORD0374,2025-12-04,CUST101,Aditya Reddy,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,2,3617.6,2351.44,1266.16,0.2
+ORD0375,2025-12-21,CUST010,Ishita Reddy,South,Telangana,Hyderabad,Fashion,Sneakers,4,9004.0,5582.48,3421.52,0.0
+ORD0376,2025-09-22,CUST057,Karan Iyer,South,Tamil Nadu,Coimbatore,Electronics,Smart Watch,5,22905.0,16491.6,6413.4,0.25
+ORD0377,2025-06-16,CUST145,Ananya Mali,East,Odisha,Bhubaneswar,Fashion,Kurti,5,14200.0,8804.0,5396.0,0.0
+ORD0378,2025-02-07,CUST082,Sahil Gupta,East,West Bengal,Kolkata,Fashion,Sneakers,3,1784.1,1106.14,677.96,0.05
+ORD0379,2025-11-14,CUST039,Rahul Reddy,North,Delhi,New Delhi,Fashion,Sneakers,5,5616.0,3481.92,2134.08,0.1
+ORD0380,2025-04-05,CUST077,Priya Joshi,East,West Bengal,Kolkata,Fashion,Jeans,4,5681.0,3522.22,2158.78,0.05
+ORD0381,2025-08-25,CUST120,Riya Gupta,North,Uttar Pradesh,Noida,Beauty,Shampoo,2,652.8,378.62,274.18,0.15
+ORD0382,2025-03-17,CUST032,Kavya Mehta,North,Rajasthan,Udaipur,Fashion,Kurti,1,1999.8,1239.88,759.92,0.1
+ORD0383,2025-09-11,CUST052,Aditya Mehta,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,5,15763.25,11349.54,4413.71,0.15
+ORD0384,2025-07-24,CUST045,Vivek Khan,East,Odisha,Bhubaneswar,Home & Kitchen,Table Lamp,1,1102.0,716.3,385.7,0.05
+ORD0385,2025-11-24,CUST072,Neha Iyer,West,Gujarat,Ahmedabad,Electronics,Smart Watch,3,12001.5,8641.08,3360.42,0.1
+ORD0386,2025-10-13,CUST016,Simran Das,South,Tamil Nadu,Coimbatore,Home & Kitchen,Storage Box,5,6493.25,4220.61,2272.64,0.05
+ORD0387,2025-04-26,CUST094,Sneha Kulkarni,North,Uttar Pradesh,Noida,Fashion,Sneakers,1,2487.1,1542.0,945.1,0.15
+ORD0388,2025-01-01,CUST057,Karan Iyer,North,Delhi,New Delhi,Beauty,Shampoo,4,5356.8,3106.94,2249.86,0.1
+ORD0389,2025-03-13,CUST140,Aditya Patel,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,3,17917.95,12900.92,5017.03,0.05
+ORD0390,2025-08-09,CUST115,Rahul Joshi,South,Tamil Nadu,Chennai,Home & Kitchen,Water Bottle,5,8284.5,5384.93,2899.57,0.1
+ORD0391,2025-07-19,CUST102,Aditya Desai,North,Uttar Pradesh,Lucknow,Home & Kitchen,Coffee Mug,1,1561.8,1015.17,546.63,0.05
+ORD0392,2025-12-25,CUST149,Meera Kulkarni,North,Rajasthan,Udaipur,Home & Kitchen,Storage Box,4,4860.2,3159.13,1701.07,0.05
+ORD0393,2025-09-01,CUST028,Rohan Iyer,West,Gujarat,Surat,Beauty,Shampoo,4,5968.0,3461.44,2506.56,0.0
+ORD0394,2025-03-24,CUST032,Kavya Mehta,West,Maharashtra,Mumbai,Fashion,Sneakers,2,4128.7,2559.79,1568.91,0.05
+ORD0395,2025-07-27,CUST048,Rohan Khan,South,Telangana,Hyderabad,Fashion,Sneakers,2,2511.8,1557.32,954.48,0.05
+ORD0396,2025-01-25,CUST076,Rahul Reddy,South,Telangana,Hyderabad,Fashion,T-Shirt,2,2844.1,1763.34,1080.76,0.15
+ORD0397,2025-01-05,CUST104,Rohan Patel,East,Odisha,Bhubaneswar,Electronics,Power Bank,3,8199.45,5903.6,2295.85,0.05
+ORD0398,2025-12-17,CUST044,Kavya Das,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,2,672.0,436.8,235.2,0.0
+ORD0399,2025-12-06,CUST089,Rohan Reddy,West,Gujarat,Surat,Beauty,Face Wash,1,1704.0,988.32,715.68,0.0
+ORD0400,2025-10-29,CUST143,Priya Kulkarni,East,Odisha,Bhubaneswar,Electronics,Power Bank,1,1883.0,1355.76,527.24,0.0
+ORD0401,2025-08-15,CUST108,Aditya Patel,South,Tamil Nadu,Coimbatore,Fashion,T-Shirt,3,7755.0,4808.1,2946.9,0.0
+ORD0402,2025-02-06,CUST061,Simran Joshi,North,Uttar Pradesh,Noida,Fashion,Kurti,3,3235.95,2006.29,1229.66,0.15
+ORD0403,2025-11-28,CUST104,Rohan Patel,North,Rajasthan,Udaipur,Beauty,Lip Balm,2,1738.5,1008.33,730.17,0.25
+ORD0404,2025-07-03,CUST122,Simran Sharma,East,West Bengal,Kolkata,Electronics,Smart Watch,2,10652.2,7669.58,2982.62,0.15
+ORD0405,2025-11-17,CUST022,Karan Joshi,South,Telangana,Hyderabad,Beauty,Face Wash,1,1246.4,722.91,523.49,0.2
+ORD0406,2025-01-17,CUST099,Nikhil Kulkarni,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,2,12009.6,8646.91,3362.69,0.1
+ORD0407,2025-05-23,CUST006,Arjun Kulkarni,North,Rajasthan,Udaipur,Electronics,Power Bank,5,4380.0,3153.6,1226.4,0.25
+ORD0408,2025-08-05,CUST006,Arjun Kulkarni,North,Uttar Pradesh,Noida,Electronics,Bluetooth Speaker,2,6759.2,4866.62,1892.58,0.15
+ORD0409,2025-01-13,CUST146,Simran Mali,North,Delhi,New Delhi,Fashion,Jeans,4,1672.0,1036.64,635.36,0.0
+ORD0410,2025-05-02,CUST081,Rohan Kulkarni,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,4,10062.0,7244.64,2817.36,0.1
+ORD0411,2025-05-21,CUST107,Aditya Kulkarni,West,Gujarat,Ahmedabad,Fashion,Sneakers,2,5405.5,3351.41,2054.09,0.05
+ORD0412,2025-07-09,CUST068,Priya Desai,South,Telangana,Hyderabad,Electronics,Power Bank,4,21696.0,15621.12,6074.88,0.0
+ORD0413,2025-07-20,CUST136,Rohan Iyer,South,Telangana,Hyderabad,Beauty,Shampoo,5,5704.75,3308.75,2396.0,0.05
+ORD0414,2025-07-16,CUST030,Ananya Reddy,East,Odisha,Bhubaneswar,Fashion,Jeans,5,3904.5,2420.79,1483.71,0.05
+ORD0415,2025-04-18,CUST094,Sneha Kulkarni,South,Karnataka,Mysuru,Home & Kitchen,Coffee Mug,4,2040.6,1326.39,714.21,0.05
+ORD0416,2025-01-06,CUST122,Simran Sharma,East,West Bengal,Kolkata,Fashion,Sneakers,3,3146.7,1950.95,1195.75,0.15
+ORD0417,2025-08-02,CUST081,Rohan Kulkarni,East,West Bengal,Kolkata,Electronics,Power Bank,3,6030.6,4342.03,1688.57,0.05
+ORD0418,2025-09-27,CUST003,Sneha Nair,East,West Bengal,Kolkata,Home & Kitchen,Storage Box,1,926.5,602.23,324.27,0.15
+ORD0419,2025-10-08,CUST069,Pooja Joshi,North,Delhi,New Delhi,Fashion,Jeans,4,9008.0,5584.96,3423.04,0.2
+ORD0420,2025-12-21,CUST058,Rohan Khan,South,Tamil Nadu,Chennai,Electronics,Smart Watch,4,11980.0,8625.6,3354.4,0.0
+ORD0421,2025-03-05,CUST149,Meera Kulkarni,South,Karnataka,Bengaluru,Fashion,T-Shirt,2,2754.0,1707.48,1046.52,0.0
+ORD0422,2025-09-19,CUST018,Sahil Iyer,North,Rajasthan,Jaipur,Home & Kitchen,Table Lamp,1,680.0,442.0,238.0,0.0
+ORD0423,2025-11-11,CUST076,Rahul Reddy,North,Delhi,New Delhi,Beauty,Body Lotion,3,4235.1,2456.36,1778.74,0.05
+ORD0424,2025-09-11,CUST119,Priya Singh,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,3,2610.6,1879.63,730.97,0.05
+ORD0425,2025-04-28,CUST008,Ananya Gupta,North,Uttar Pradesh,Noida,Electronics,Power Bank,5,21551.75,15517.26,6034.49,0.15
+ORD0426,2025-10-02,CUST124,Aditi Nair,North,Uttar Pradesh,Lucknow,Fashion,Sneakers,5,1852.0,1148.24,703.76,0.2
+ORD0427,2025-06-13,CUST029,Sneha Das,North,Delhi,New Delhi,Home & Kitchen,Storage Box,2,2066.0,1342.9,723.1,0.0
+ORD0428,2025-11-14,CUST100,Karan Singh,North,Rajasthan,Jaipur,Home & Kitchen,Storage Box,5,4469.75,2905.34,1564.41,0.05
+ORD0429,2025-05-28,CUST147,Meera Mehta,South,Karnataka,Mysuru,Beauty,Shampoo,1,1653.0,958.74,694.26,0.05
+ORD0430,2025-10-27,CUST126,Rahul Mali,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,2,3760.0,2444.0,1316.0,0.0
+ORD0431,2025-12-05,CUST128,Sahil Singh,North,Rajasthan,Jaipur,Fashion,Kurti,5,10156.5,6297.03,3859.47,0.1
+ORD0432,2025-01-16,CUST060,Riya Sharma,South,Telangana,Hyderabad,Fashion,Sneakers,5,12880.0,7985.6,4894.4,0.0
+ORD0433,2025-04-05,CUST071,Nikhil Desai,East,Odisha,Bhubaneswar,Fashion,Sneakers,1,1682.45,1043.12,639.33,0.05
+ORD0434,2025-04-18,CUST106,Priya Sharma,South,Tamil Nadu,Coimbatore,Home & Kitchen,Table Lamp,3,3465.6,2252.64,1212.96,0.2
+ORD0435,2025-11-01,CUST012,Aarav Iyer,North,Rajasthan,Udaipur,Beauty,Body Lotion,2,2887.2,1674.58,1212.62,0.1
+ORD0436,2025-12-27,CUST042,Sneha Verma,South,Telangana,Hyderabad,Fashion,Sneakers,2,1394.0,864.28,529.72,0.15
+ORD0437,2025-03-30,CUST107,Aditya Kulkarni,East,West Bengal,Kolkata,Beauty,Lip Balm,2,680.0,394.4,285.6,0.15
+ORD0438,2025-05-04,CUST020,Ananya Verma,South,Tamil Nadu,Coimbatore,Home & Kitchen,Storage Box,4,3984.8,2590.12,1394.68,0.15
+ORD0439,2025-06-05,CUST078,Rohan Nair,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,4,2116.0,1375.4,740.6,0.0
+ORD0440,2025-05-08,CUST078,Rohan Nair,North,Uttar Pradesh,Noida,Electronics,Smart Watch,2,9055.9,6520.25,2535.65,0.15
+ORD0441,2025-06-13,CUST022,Karan Joshi,North,Delhi,New Delhi,Home & Kitchen,Table Lamp,4,2916.0,1895.4,1020.6,0.0
+ORD0442,2025-07-25,CUST149,Meera Kulkarni,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,4,6881.8,4954.9,1926.9,0.05
+ORD0443,2025-04-08,CUST044,Kavya Das,West,Maharashtra,Mumbai,Fashion,Sneakers,5,3276.75,2031.59,1245.16,0.15
+ORD0444,2025-03-24,CUST079,Nikhil Kulkarni,West,Maharashtra,Mumbai,Home & Kitchen,Water Bottle,5,2587.5,1681.88,905.62,0.1
+ORD0445,2025-03-30,CUST022,Karan Joshi,West,Gujarat,Ahmedabad,Beauty,Shampoo,1,688.5,399.33,289.17,0.1
+ORD0446,2025-02-15,CUST054,Aarav Kulkarni,East,Odisha,Bhubaneswar,Electronics,Power Bank,3,8007.0,5765.04,2241.96,0.15
+ORD0447,2025-06-10,CUST070,Karan Das,South,Telangana,Hyderabad,Fashion,Kurti,3,4839.9,3000.74,1839.16,0.15
+ORD0448,2025-06-22,CUST004,Rohan Desai,North,Rajasthan,Udaipur,Beauty,Shampoo,3,4742.4,2750.59,1991.81,0.05
+ORD0449,2025-07-19,CUST052,Aditya Mehta,North,Uttar Pradesh,Lucknow,Home & Kitchen,Storage Box,2,986.4,641.16,345.24,0.1
+ORD0450,2025-09-25,CUST020,Ananya Verma,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,3,10839.0,7804.08,3034.92,0.0
+ORD0451,2025-08-08,CUST019,Meera Khan,South,Karnataka,Mysuru,Fashion,T-Shirt,1,617.95,383.13,234.82,0.15
+ORD0452,2025-06-03,CUST120,Riya Gupta,South,Tamil Nadu,Chennai,Beauty,Lip Balm,4,833.0,483.14,349.86,0.15
+ORD0453,2025-04-26,CUST121,Arjun Das,East,West Bengal,Kolkata,Home & Kitchen,Coffee Mug,4,8755.2,5690.88,3064.32,0.05
+ORD0454,2025-01-28,CUST092,Karan Mali,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,3,3272.4,2356.13,916.27,0.1
+ORD0455,2025-10-13,CUST097,Sahil Desai,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,4,3516.0,2531.52,984.48,0.25
+ORD0456,2025-04-16,CUST079,Nikhil Kulkarni,South,Telangana,Hyderabad,Beauty,Body Lotion,3,1676.7,972.49,704.21,0.1
+ORD0457,2025-11-26,CUST007,Rahul Mehta,South,Karnataka,Bengaluru,Beauty,Face Wash,2,1160.0,672.8,487.2,0.0
+ORD0458,2025-01-04,CUST052,Aditya Mehta,West,Maharashtra,Mumbai,Electronics,Power Bank,1,1465.85,1055.41,410.44,0.05
+ORD0459,2025-09-10,CUST071,Nikhil Desai,West,Gujarat,Ahmedabad,Electronics,Power Bank,3,8259.45,5946.8,2312.65,0.15
+ORD0460,2025-12-21,CUST121,Arjun Das,West,Gujarat,Surat,Electronics,Power Bank,3,10805.4,7779.89,3025.51,0.1
+ORD0461,2025-10-05,CUST039,Rahul Reddy,East,West Bengal,Kolkata,Home & Kitchen,Coffee Mug,3,5919.45,3847.64,2071.81,0.05
+ORD0462,2025-08-25,CUST001,Rohan Singh,East,Odisha,Bhubaneswar,Beauty,Body Lotion,4,2418.0,1402.44,1015.56,0.25
+ORD0463,2025-08-17,CUST030,Ananya Reddy,East,West Bengal,Kolkata,Beauty,Body Lotion,4,5876.0,3408.08,2467.92,0.0
+ORD0464,2025-09-15,CUST029,Sneha Das,West,Maharashtra,Nagpur,Electronics,Bluetooth Speaker,4,24722.8,17800.42,6922.38,0.05
+ORD0465,2025-07-29,CUST108,Aditya Patel,East,Odisha,Bhubaneswar,Fashion,Kurti,4,5779.8,3583.48,2196.32,0.05
+ORD0466,2025-03-26,CUST127,Ananya Das,South,Karnataka,Mysuru,Home & Kitchen,Water Bottle,3,5270.4,3425.76,1844.64,0.1
+ORD0467,2025-08-03,CUST119,Priya Singh,West,Maharashtra,Mumbai,Electronics,Smart Watch,5,27935.25,20113.38,7821.87,0.15
+ORD0468,2025-12-05,CUST015,Neha Iyer,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,2,5931.0,4270.32,1660.68,0.1
+ORD0469,2025-05-02,CUST038,Neha Reddy,North,Rajasthan,Jaipur,Fashion,Kurti,4,9292.0,5761.04,3530.96,0.0
+ORD0470,2025-01-09,CUST136,Rohan Iyer,South,Tamil Nadu,Coimbatore,Fashion,Sneakers,4,11096.0,6879.52,4216.48,0.0
+ORD0471,2025-01-01,CUST022,Karan Joshi,South,Telangana,Hyderabad,Fashion,Sneakers,2,2935.8,1820.2,1115.6,0.1
+ORD0472,2025-11-30,CUST050,Sneha Mehta,East,West Bengal,Kolkata,Electronics,Smart Watch,1,989.25,712.26,276.99,0.25
+ORD0473,2025-04-02,CUST018,Sahil Iyer,West,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,3,5343.3,3847.18,1496.12,0.1
+ORD0474,2025-01-06,CUST068,Priya Desai,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,5,16960.0,12211.2,4748.8,0.2
+ORD0475,2025-06-24,CUST066,Nikhil Reddy,East,Odisha,Bhubaneswar,Fashion,Jeans,4,5225.8,3240.0,1985.8,0.15
+ORD0476,2025-02-14,CUST035,Neha Singh,South,Tamil Nadu,Chennai,Home & Kitchen,Coffee Mug,4,3243.6,2108.34,1135.26,0.15
+ORD0477,2025-07-06,CUST019,Meera Khan,West,Gujarat,Surat,Home & Kitchen,Table Lamp,1,893.95,581.07,312.88,0.05
+ORD0478,2025-06-17,CUST037,Ishita Patel,East,Odisha,Bhubaneswar,Beauty,Shampoo,5,2411.25,1398.52,1012.73,0.25
+ORD0479,2025-08-20,CUST072,Neha Iyer,South,Tamil Nadu,Chennai,Fashion,Jeans,5,11932.0,7397.84,4534.16,0.05
+ORD0480,2025-05-26,CUST087,Meera Reddy,South,Tamil Nadu,Coimbatore,Fashion,Kurti,1,676.4,419.37,257.03,0.05
+ORD0481,2025-05-15,CUST088,Arjun Desai,North,Rajasthan,Jaipur,Electronics,Smart Watch,2,10966.7,7896.02,3070.68,0.15
+ORD0482,2025-03-18,CUST057,Karan Iyer,North,Uttar Pradesh,Noida,Fashion,T-Shirt,1,2165.8,1342.8,823.0,0.15
+ORD0483,2025-11-27,CUST025,Karan Desai,East,Odisha,Bhubaneswar,Electronics,Smart Watch,1,2972.45,2140.16,832.29,0.15
+ORD0484,2025-01-19,CUST003,Sneha Nair,South,Tamil Nadu,Chennai,Fashion,Sneakers,2,3161.6,1960.19,1201.41,0.05
+ORD0485,2025-05-06,CUST035,Neha Singh,West,Maharashtra,Mumbai,Electronics,Power Bank,3,10687.2,7694.78,2992.42,0.2
+ORD0486,2025-12-02,CUST025,Karan Desai,South,Karnataka,Bengaluru,Electronics,Smart Watch,4,8030.8,5782.18,2248.62,0.15
+ORD0487,2025-02-08,CUST122,Simran Sharma,South,Karnataka,Mysuru,Home & Kitchen,Storage Box,2,3893.0,2530.45,1362.55,0.15
+ORD0488,2025-01-15,CUST088,Arjun Desai,North,Delhi,New Delhi,Fashion,Kurti,4,4773.0,2959.26,1813.74,0.25
+ORD0489,2025-09-18,CUST016,Simran Das,North,Rajasthan,Jaipur,Beauty,Shampoo,4,5901.4,3422.81,2478.59,0.05
+ORD0490,2025-09-13,CUST105,Ananya Sharma,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,1,1789.8,1163.37,626.43,0.05
+ORD0491,2025-02-06,CUST141,Aarav Reddy,North,Delhi,New Delhi,Fashion,Sneakers,2,802.4,497.49,304.91,0.15
+ORD0492,2025-12-07,CUST060,Riya Sharma,South,Tamil Nadu,Chennai,Beauty,Shampoo,5,3969.5,2302.31,1667.19,0.15
+ORD0493,2025-01-13,CUST020,Ananya Verma,South,Tamil Nadu,Chennai,Electronics,Wireless Earbuds,2,6872.4,4948.13,1924.27,0.1
+ORD0494,2025-11-21,CUST099,Nikhil Kulkarni,West,Gujarat,Ahmedabad,Home & Kitchen,Table Lamp,3,4959.0,3223.35,1735.65,0.05
+ORD0495,2025-08-05,CUST144,Karan Khan,South,Telangana,Hyderabad,Home & Kitchen,Storage Box,4,5384.6,3499.99,1884.61,0.05
+ORD0496,2025-02-11,CUST072,Neha Iyer,West,Gujarat,Surat,Fashion,Kurti,1,2096.0,1299.52,796.48,0.2
+ORD0497,2025-08-03,CUST034,Aditi Gupta,North,Delhi,New Delhi,Electronics,Power Bank,5,17412.25,12536.82,4875.43,0.15
+ORD0498,2025-03-16,CUST026,Riya Singh,North,Rajasthan,Udaipur,Fashion,Kurti,5,11723.0,7268.26,4454.74,0.05
+ORD0499,2025-08-12,CUST059,Sneha Iyer,South,Telangana,Hyderabad,Beauty,Lip Balm,3,3628.65,2104.62,1524.03,0.15
+ORD0500,2025-10-10,CUST035,Neha Singh,North,Rajasthan,Udaipur,Fashion,Kurti,1,819.85,508.31,311.54,0.05
+ORD0501,2025-03-04,CUST123,Karan Iyer,East,Odisha,Bhubaneswar,Fashion,Jeans,4,8726.4,5410.37,3316.03,0.1
+ORD0502,2025-04-26,CUST133,Aarav Kulkarni,North,Rajasthan,Udaipur,Beauty,Shampoo,5,4636.75,2689.31,1947.44,0.15
+ORD0503,2025-03-20,CUST082,Sahil Gupta,West,Gujarat,Surat,Beauty,Shampoo,3,2027.25,1175.8,851.45,0.25
+ORD0504,2025-09-13,CUST105,Ananya Sharma,West,Gujarat,Surat,Beauty,Face Wash,4,6342.2,3678.48,2663.72,0.05
+ORD0505,2025-07-11,CUST078,Rohan Nair,East,West Bengal,Kolkata,Electronics,Smart Watch,5,8190.0,5896.8,2293.2,0.1
+ORD0506,2025-04-04,CUST130,Karan Sharma,West,Maharashtra,Mumbai,Home & Kitchen,Table Lamp,5,5180.0,3367.0,1813.0,0.2
+ORD0507,2025-09-30,CUST050,Sneha Mehta,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,2,1438.2,934.83,503.37,0.15
+ORD0508,2025-01-16,CUST081,Rohan Kulkarni,South,Tamil Nadu,Chennai,Fashion,Sneakers,3,4586.4,2843.57,1742.83,0.2
+ORD0509,2025-11-16,CUST066,Nikhil Reddy,East,West Bengal,Kolkata,Fashion,Jeans,2,1112.0,689.44,422.56,0.0
+ORD0510,2025-08-04,CUST018,Sahil Iyer,South,Tamil Nadu,Chennai,Electronics,Wireless Earbuds,4,14385.4,10357.49,4027.91,0.15
+ORD0511,2025-07-07,CUST028,Rohan Iyer,East,Odisha,Bhubaneswar,Electronics,Power Bank,2,11250.6,8100.43,3150.17,0.15
+ORD0512,2025-10-22,CUST018,Sahil Iyer,South,Karnataka,Bengaluru,Home & Kitchen,Storage Box,5,5408.0,3515.2,1892.8,0.2
+ORD0513,2025-11-19,CUST030,Ananya Reddy,East,Odisha,Bhubaneswar,Fashion,Sneakers,2,3094.2,1918.4,1175.8,0.1
+ORD0514,2025-11-30,CUST049,Aarav Iyer,North,Delhi,New Delhi,Beauty,Face Wash,1,1444.95,838.07,606.88,0.05
+ORD0515,2025-11-24,CUST128,Sahil Singh,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,1,1574.15,1023.2,550.95,0.05
+ORD0516,2025-03-03,CUST063,Ishita Mehta,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,5,19146.25,13785.3,5360.95,0.15
+ORD0517,2025-09-04,CUST042,Sneha Verma,West,Gujarat,Ahmedabad,Beauty,Lip Balm,2,1273.0,738.34,534.66,0.05
+ORD0518,2025-02-26,CUST110,Priya Sharma,South,Telangana,Hyderabad,Electronics,Power Bank,4,8658.0,6233.76,2424.24,0.1
+ORD0519,2025-01-16,CUST065,Ananya Verma,North,Rajasthan,Jaipur,Electronics,Wireless Earbuds,4,3456.0,2488.32,967.68,0.1
+ORD0520,2025-09-30,CUST065,Ananya Verma,North,Delhi,New Delhi,Beauty,Shampoo,1,1246.5,722.97,523.53,0.1
+ORD0521,2025-05-05,CUST078,Rohan Nair,South,Tamil Nadu,Coimbatore,Home & Kitchen,Coffee Mug,1,1280.7,832.46,448.24,0.1
+ORD0522,2025-07-30,CUST129,Rohan Singh,South,Karnataka,Bengaluru,Fashion,Jeans,2,4734.8,2935.58,1799.22,0.05
+ORD0523,2025-04-19,CUST135,Neha Mali,East,Odisha,Bhubaneswar,Home & Kitchen,Table Lamp,3,4866.75,3163.39,1703.36,0.25
+ORD0524,2025-12-09,CUST119,Priya Singh,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,5,9864.0,6411.6,3452.4,0.2
+ORD0525,2025-02-12,CUST003,Sneha Nair,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,1,1307.7,850.01,457.69,0.1
+ORD0526,2025-05-06,CUST071,Nikhil Desai,East,Odisha,Bhubaneswar,Fashion,Sneakers,4,8571.4,5314.27,3257.13,0.15
+ORD0527,2025-05-10,CUST032,Kavya Mehta,West,Maharashtra,Pune,Fashion,Jeans,4,9251.2,5735.74,3515.46,0.2
+ORD0528,2025-02-10,CUST025,Karan Desai,North,Uttar Pradesh,Noida,Electronics,Smart Watch,5,5904.25,4251.06,1653.19,0.05
+ORD0529,2025-05-17,CUST057,Karan Iyer,West,Gujarat,Surat,Fashion,Jeans,4,1754.4,1087.73,666.67,0.15
+ORD0530,2025-03-15,CUST085,Aditi Iyer,North,Uttar Pradesh,Noida,Beauty,Lip Balm,5,3301.25,1914.72,1386.53,0.05
+ORD0531,2025-06-06,CUST045,Vivek Khan,West,Gujarat,Ahmedabad,Fashion,T-Shirt,4,3640.4,2257.05,1383.35,0.05
+ORD0532,2025-01-26,CUST015,Neha Iyer,North,Uttar Pradesh,Lucknow,Home & Kitchen,Table Lamp,1,306.9,199.48,107.42,0.1
+ORD0533,2025-03-17,CUST131,Sneha Joshi,West,Gujarat,Ahmedabad,Beauty,Face Wash,1,1017.6,590.21,427.39,0.2
+ORD0534,2025-04-28,CUST099,Nikhil Kulkarni,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,4,8412.0,5467.8,2944.2,0.0
+ORD0535,2025-06-06,CUST010,Ishita Reddy,South,Karnataka,Mysuru,Fashion,Sneakers,4,7939.0,4922.18,3016.82,0.15
+ORD0536,2025-06-10,CUST078,Rohan Nair,East,Odisha,Bhubaneswar,Electronics,Bluetooth Speaker,2,8184.0,5892.48,2291.52,0.0
+ORD0537,2025-04-18,CUST068,Priya Desai,East,Odisha,Bhubaneswar,Beauty,Body Lotion,1,833.0,483.14,349.86,0.15
+ORD0538,2025-10-31,CUST126,Rahul Mali,West,Gujarat,Surat,Electronics,Power Bank,4,10864.2,7822.22,3041.98,0.05
+ORD0539,2025-03-25,CUST023,Kavya Singh,West,Maharashtra,Pune,Electronics,Smart Watch,4,22841.2,16445.66,6395.54,0.15
+ORD0540,2025-05-14,CUST100,Karan Singh,North,Rajasthan,Udaipur,Beauty,Body Lotion,5,1516.0,879.28,636.72,0.2
+ORD0541,2025-01-19,CUST117,Aditya Das,North,Rajasthan,Udaipur,Fashion,Sneakers,4,2694.4,1670.53,1023.87,0.2
+ORD0542,2025-04-03,CUST069,Pooja Joshi,South,Tamil Nadu,Chennai,Fashion,Kurti,1,723.6,448.63,274.97,0.1
+ORD0543,2025-04-29,CUST072,Neha Iyer,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,2,1164.7,757.06,407.64,0.05
+ORD0544,2025-08-11,CUST010,Ishita Reddy,East,Odisha,Bhubaneswar,Electronics,Bluetooth Speaker,3,13509.0,9726.48,3782.52,0.05
+ORD0545,2025-07-16,CUST106,Priya Sharma,North,Uttar Pradesh,Noida,Beauty,Body Lotion,3,3035.25,1760.44,1274.81,0.05
+ORD0546,2025-05-20,CUST125,Ananya Singh,North,Rajasthan,Jaipur,Home & Kitchen,Storage Box,1,1731.6,1125.54,606.06,0.1
+ORD0547,2025-12-28,CUST010,Ishita Reddy,North,Uttar Pradesh,Noida,Electronics,Power Bank,4,10880.0,7833.6,3046.4,0.15
+ORD0548,2025-01-20,CUST086,Ishita Iyer,North,Uttar Pradesh,Noida,Fashion,Kurti,1,809.0,501.58,307.42,0.0
+ORD0549,2025-05-25,CUST044,Kavya Das,South,Karnataka,Mysuru,Beauty,Body Lotion,3,1185.75,687.73,498.02,0.15
+ORD0550,2025-02-08,CUST149,Meera Kulkarni,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,1,4829.6,3477.31,1352.29,0.2
+ORD0551,2025-02-01,CUST042,Sneha Verma,East,Odisha,Bhubaneswar,Fashion,Sneakers,2,848.0,525.76,322.24,0.0
+ORD0552,2025-08-20,CUST126,Rahul Mali,South,Tamil Nadu,Chennai,Home & Kitchen,Storage Box,1,701.1,455.72,245.38,0.1
+ORD0553,2025-04-20,CUST084,Vivek Reddy,North,Rajasthan,Jaipur,Fashion,Jeans,5,2655.0,1646.1,1008.9,0.25
+ORD0554,2025-07-29,CUST013,Ishita Khan,South,Telangana,Hyderabad,Fashion,Jeans,5,6426.75,3984.59,2442.16,0.05
+ORD0555,2025-01-18,CUST065,Ananya Verma,South,Telangana,Hyderabad,Fashion,T-Shirt,1,1469.6,911.15,558.45,0.2
+ORD0556,2025-04-18,CUST123,Karan Iyer,East,Odisha,Bhubaneswar,Fashion,Sneakers,4,9968.8,6180.66,3788.14,0.15
+ORD0557,2025-05-31,CUST026,Riya Singh,East,Odisha,Bhubaneswar,Fashion,Sneakers,4,11365.8,7046.8,4319.0,0.05
+ORD0558,2025-05-23,CUST052,Aditya Mehta,East,West Bengal,Kolkata,Electronics,Smart Watch,2,2820.3,2030.62,789.68,0.15
+ORD0559,2025-01-11,CUST143,Priya Kulkarni,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,4,5677.2,3690.18,1987.02,0.05
+ORD0560,2025-11-05,CUST123,Karan Iyer,North,Delhi,New Delhi,Home & Kitchen,Storage Box,2,1010.0,656.5,353.5,0.0
+ORD0561,2025-11-08,CUST009,Riya Mehta,North,Uttar Pradesh,Noida,Home & Kitchen,Table Lamp,3,2873.85,1868.0,1005.85,0.15
+ORD0562,2025-11-20,CUST106,Priya Sharma,East,Odisha,Bhubaneswar,Fashion,Jeans,5,1880.0,1165.6,714.4,0.2
+ORD0563,2025-09-18,CUST074,Rohan Sharma,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,5,21688.5,15615.72,6072.78,0.05
+ORD0564,2025-08-03,CUST004,Rohan Desai,West,Gujarat,Surat,Home & Kitchen,Water Bottle,4,1190.0,773.5,416.5,0.15
+ORD0565,2025-05-01,CUST053,Ananya Mali,West,Gujarat,Ahmedabad,Beauty,Shampoo,2,3131.2,1816.1,1315.1,0.05
+ORD0566,2025-03-10,CUST028,Rohan Iyer,East,Odisha,Bhubaneswar,Beauty,Lip Balm,2,1692.8,981.82,710.98,0.2
+ORD0567,2025-05-12,CUST090,Aarav Sharma,West,Maharashtra,Pune,Home & Kitchen,Coffee Mug,1,2496.0,1622.4,873.6,0.0
+ORD0568,2025-04-08,CUST126,Rahul Mali,South,Telangana,Hyderabad,Fashion,Kurti,1,1695.6,1051.27,644.33,0.1
+ORD0569,2025-05-04,CUST113,Ishita Desai,South,Karnataka,Mysuru,Beauty,Shampoo,1,725.6,420.85,304.75,0.2
+ORD0570,2025-06-05,CUST087,Meera Reddy,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,5,13765.5,9911.16,3854.34,0.05
+ORD0571,2025-01-19,CUST146,Simran Mali,North,Delhi,New Delhi,Electronics,Power Bank,5,21294.0,15331.68,5962.32,0.1
+ORD0572,2025-08-19,CUST069,Pooja Joshi,South,Tamil Nadu,Coimbatore,Fashion,T-Shirt,5,12784.5,7926.39,4858.11,0.1
+ORD0573,2025-08-19,CUST128,Sahil Singh,North,Rajasthan,Jaipur,Electronics,Power Bank,5,30245.0,21776.4,8468.6,0.0
+ORD0574,2025-06-20,CUST062,Priya Mali,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,3,3415.5,2220.08,1195.42,0.1
+ORD0575,2025-09-19,CUST043,Simran Nair,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,4713.6,3393.79,1319.81,0.2
+ORD0576,2025-01-25,CUST056,Rohan Desai,South,Tamil Nadu,Coimbatore,Fashion,Jeans,4,8405.6,5211.47,3194.13,0.05
+ORD0577,2025-10-04,CUST128,Sahil Singh,West,Maharashtra,Mumbai,Fashion,Jeans,3,2567.7,1591.97,975.73,0.1
+ORD0578,2025-12-20,CUST055,Priya Desai,North,Delhi,New Delhi,Fashion,T-Shirt,5,8059.5,4996.89,3062.61,0.1
+ORD0579,2025-10-02,CUST087,Meera Reddy,East,West Bengal,Kolkata,Electronics,Smart Watch,3,3788.1,2727.43,1060.67,0.1
+ORD0580,2025-01-17,CUST017,Nikhil Reddy,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,5,7407.0,4814.55,2592.45,0.1
+ORD0581,2025-07-16,CUST081,Rohan Kulkarni,South,Tamil Nadu,Coimbatore,Electronics,Power Bank,4,13230.0,9525.6,3704.4,0.1
+ORD0582,2025-09-25,CUST014,Aditya Kulkarni,North,Uttar Pradesh,Noida,Electronics,Bluetooth Speaker,2,2570.4,1850.69,719.71,0.1
+ORD0583,2025-07-07,CUST079,Nikhil Kulkarni,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,5,6961.5,4524.98,2436.52,0.15
+ORD0584,2025-04-06,CUST109,Riya Iyer,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,4,20961.0,15091.92,5869.08,0.15
+ORD0585,2025-06-11,CUST082,Sahil Gupta,South,Telangana,Hyderabad,Fashion,Jeans,4,4967.4,3079.79,1887.61,0.15
+ORD0586,2025-01-04,CUST035,Neha Singh,West,Gujarat,Ahmedabad,Fashion,Jeans,4,10852.8,6728.74,4124.06,0.05
+ORD0587,2025-03-09,CUST023,Kavya Singh,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,1,1543.5,1111.32,432.18,0.25
+ORD0588,2025-12-25,CUST108,Aditya Patel,West,Gujarat,Surat,Fashion,Sneakers,2,4365.0,2706.3,1658.7,0.25
+ORD0589,2025-04-29,CUST071,Nikhil Desai,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,2,1069.7,695.31,374.39,0.05
+ORD0590,2025-01-03,CUST044,Kavya Das,South,Karnataka,Mysuru,Fashion,Sneakers,2,3603.6,2234.23,1369.37,0.1
+ORD0591,2025-05-18,CUST145,Ananya Mali,South,Tamil Nadu,Chennai,Fashion,Sneakers,1,651.6,403.99,247.61,0.1
+ORD0592,2025-09-16,CUST024,Pooja Patel,South,Karnataka,Mysuru,Beauty,Shampoo,4,1832.4,1062.79,769.61,0.1
+ORD0593,2025-10-29,CUST056,Rohan Desai,East,West Bengal,Kolkata,Home & Kitchen,Table Lamp,5,9775.5,6354.07,3421.43,0.05
+ORD0594,2025-06-29,CUST099,Nikhil Kulkarni,West,Maharashtra,Mumbai,Beauty,Face Wash,2,1211.4,702.61,508.79,0.1
+ORD0595,2025-08-04,CUST107,Aditya Kulkarni,South,Tamil Nadu,Chennai,Electronics,Smart Watch,5,20637.0,14858.64,5778.36,0.1
+ORD0596,2025-02-09,CUST013,Ishita Khan,South,Telangana,Hyderabad,Fashion,T-Shirt,5,2796.5,1733.83,1062.67,0.15
+ORD0597,2025-06-11,CUST071,Nikhil Desai,North,Uttar Pradesh,Noida,Fashion,Sneakers,3,7176.0,4449.12,2726.88,0.2
+ORD0598,2025-07-18,CUST020,Ananya Verma,East,West Bengal,Kolkata,Electronics,Power Bank,1,5589.6,4024.51,1565.09,0.15
+ORD0599,2025-12-15,CUST130,Karan Sharma,South,Karnataka,Mysuru,Electronics,Power Bank,5,4503.0,3242.16,1260.84,0.05
+ORD0600,2025-08-31,CUST018,Sahil Iyer,South,Karnataka,Mysuru,Electronics,Smart Watch,2,12559.0,9042.48,3516.52,0.05
+ORD0601,2025-01-02,CUST016,Simran Das,South,Karnataka,Mysuru,Electronics,Power Bank,5,16326.0,11754.72,4571.28,0.1
+ORD0602,2025-12-16,CUST045,Vivek Khan,North,Delhi,New Delhi,Home & Kitchen,Storage Box,2,3228.1,2098.26,1129.84,0.05
+ORD0603,2025-08-12,CUST038,Neha Reddy,North,Uttar Pradesh,Lucknow,Home & Kitchen,Water Bottle,2,1016.6,660.79,355.81,0.15
+ORD0604,2025-03-05,CUST039,Rahul Reddy,North,Delhi,New Delhi,Fashion,Sneakers,5,12720.0,7886.4,4833.6,0.0
+ORD0605,2025-04-01,CUST021,Sahil Joshi,South,Tamil Nadu,Chennai,Fashion,Jeans,4,5215.6,3233.67,1981.93,0.15
+ORD0606,2025-10-08,CUST099,Nikhil Kulkarni,North,Rajasthan,Jaipur,Electronics,Wireless Earbuds,3,4485.0,3229.2,1255.8,0.0
+ORD0607,2025-08-18,CUST069,Pooja Joshi,East,West Bengal,Kolkata,Fashion,Sneakers,5,4054.5,2513.79,1540.71,0.1
+ORD0608,2025-07-08,CUST131,Sneha Joshi,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,5,8820.75,5733.49,3087.26,0.05
+ORD0609,2025-12-17,CUST123,Karan Iyer,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,5,7594.75,5468.22,2126.53,0.15
+ORD0610,2025-06-23,CUST090,Aarav Sharma,East,Odisha,Bhubaneswar,Fashion,Jeans,1,726.75,450.58,276.17,0.15
+ORD0611,2025-12-07,CUST021,Sahil Joshi,South,Telangana,Hyderabad,Beauty,Shampoo,4,5299.2,3073.54,2225.66,0.1
+ORD0612,2025-03-21,CUST009,Riya Mehta,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,4,5491.0,3569.15,1921.85,0.15
+ORD0613,2025-01-14,CUST093,Rohan Gupta,South,Karnataka,Mysuru,Electronics,Bluetooth Speaker,5,11895.0,8564.4,3330.6,0.25
+ORD0614,2025-11-24,CUST029,Sneha Das,North,Rajasthan,Jaipur,Home & Kitchen,Table Lamp,5,4393.75,2855.94,1537.81,0.05
+ORD0615,2025-05-09,CUST046,Nikhil Nair,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,2,1462.4,950.56,511.84,0.2
+ORD0616,2025-11-10,CUST125,Ananya Singh,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,2,1639.8,1065.87,573.93,0.1
+ORD0617,2025-09-08,CUST024,Pooja Patel,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,1,300.9,195.58,105.32,0.15
+ORD0618,2025-10-28,CUST055,Priya Desai,South,Telangana,Hyderabad,Electronics,Power Bank,2,5688.0,4095.36,1592.64,0.25
+ORD0619,2025-09-28,CUST016,Simran Das,West,Maharashtra,Nagpur,Electronics,Power Bank,1,3972.0,2859.84,1112.16,0.2
+ORD0620,2025-04-13,CUST069,Pooja Joshi,North,Rajasthan,Jaipur,Beauty,Body Lotion,1,435.1,252.36,182.74,0.05
+ORD0621,2025-03-20,CUST049,Aarav Iyer,East,Odisha,Bhubaneswar,Electronics,Power Bank,2,10792.8,7770.82,3021.98,0.1
+ORD0622,2025-02-05,CUST032,Kavya Mehta,West,Maharashtra,Nagpur,Fashion,Jeans,1,1721.6,1067.39,654.21,0.2
+ORD0623,2025-12-23,CUST128,Sahil Singh,North,Rajasthan,Udaipur,Fashion,T-Shirt,5,9970.25,6181.56,3788.69,0.05
+ORD0624,2025-10-27,CUST146,Simran Mali,South,Karnataka,Mysuru,Home & Kitchen,Table Lamp,5,7480.0,4862.0,2618.0,0.2
+ORD0625,2025-08-26,CUST073,Vivek Mali,West,Maharashtra,Mumbai,Electronics,Power Bank,3,18354.0,13214.88,5139.12,0.0
+ORD0626,2025-01-29,CUST123,Karan Iyer,North,Uttar Pradesh,Noida,Fashion,Sneakers,4,2715.0,1683.3,1031.7,0.25
+ORD0627,2025-04-10,CUST081,Rohan Kulkarni,North,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,2,3708.8,2670.34,1038.46,0.05
+ORD0628,2025-06-21,CUST079,Nikhil Kulkarni,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,3,933.0,606.45,326.55,0.0
+ORD0629,2025-04-22,CUST106,Priya Sharma,West,Gujarat,Surat,Electronics,Smart Watch,1,1088.0,783.36,304.64,0.2
+ORD0630,2025-02-14,CUST044,Kavya Das,West,Gujarat,Surat,Home & Kitchen,Water Bottle,1,786.6,511.29,275.31,0.05
+ORD0631,2025-03-03,CUST029,Sneha Das,North,Rajasthan,Udaipur,Fashion,Jeans,3,2349.6,1456.75,892.85,0.2
+ORD0632,2025-10-24,CUST055,Priya Desai,South,Tamil Nadu,Chennai,Electronics,Smart Watch,4,18093.6,13027.39,5066.21,0.1
+ORD0633,2025-09-13,CUST110,Priya Sharma,North,Uttar Pradesh,Noida,Electronics,Smart Watch,3,11102.7,7993.94,3108.76,0.15
+ORD0634,2025-02-22,CUST067,Ananya Sharma,North,Rajasthan,Udaipur,Home & Kitchen,Table Lamp,3,5007.45,3254.84,1752.61,0.05
+ORD0635,2025-04-14,CUST098,Ishita Mehta,East,Odisha,Bhubaneswar,Electronics,Power Bank,4,22361.8,16100.5,6261.3,0.15
+ORD0636,2025-11-25,CUST124,Aditi Nair,South,Telangana,Hyderabad,Beauty,Shampoo,3,2657.1,1541.12,1115.98,0.15
+ORD0637,2025-01-26,CUST072,Neha Iyer,North,Rajasthan,Jaipur,Beauty,Lip Balm,3,1048.8,608.3,440.5,0.05
+ORD0638,2025-03-13,CUST097,Sahil Desai,South,Tamil Nadu,Chennai,Fashion,Sneakers,5,10963.0,6797.06,4165.94,0.05
+ORD0639,2025-01-18,CUST013,Ishita Khan,West,Maharashtra,Nagpur,Fashion,Kurti,2,2154.6,1335.85,818.75,0.1
+ORD0640,2025-08-04,CUST113,Ishita Desai,South,Karnataka,Mysuru,Beauty,Body Lotion,2,2255.3,1308.07,947.23,0.05
+ORD0641,2025-05-20,CUST070,Karan Das,South,Karnataka,Mysuru,Beauty,Shampoo,3,3086.1,1789.94,1296.16,0.1
+ORD0642,2025-09-08,CUST089,Rohan Reddy,North,Uttar Pradesh,Lucknow,Electronics,Bluetooth Speaker,1,831.3,598.54,232.76,0.15
+ORD0643,2025-04-30,CUST034,Aditi Gupta,North,Rajasthan,Udaipur,Fashion,Jeans,3,2978.1,1846.42,1131.68,0.1
+ORD0644,2025-05-19,CUST073,Vivek Mali,North,Delhi,New Delhi,Beauty,Shampoo,1,1314.0,762.12,551.88,0.0
+ORD0645,2025-10-20,CUST029,Sneha Das,West,Gujarat,Surat,Electronics,Smart Watch,5,17297.5,12454.2,4843.3,0.15
+ORD0646,2025-12-17,CUST029,Sneha Das,North,Rajasthan,Udaipur,Electronics,Power Bank,2,4970.8,3578.98,1391.82,0.15
+ORD0647,2025-01-31,CUST002,Nikhil Kulkarni,South,Telangana,Hyderabad,Electronics,Smart Watch,3,6283.2,4523.9,1759.3,0.15
+ORD0648,2025-10-21,CUST048,Rohan Khan,West,Maharashtra,Mumbai,Home & Kitchen,Coffee Mug,5,6292.5,4090.12,2202.38,0.25
+ORD0649,2025-05-07,CUST044,Kavya Das,North,Delhi,New Delhi,Electronics,Wireless Earbuds,3,13620.0,9806.4,3813.6,0.2
+ORD0650,2025-03-26,CUST046,Nikhil Nair,South,Karnataka,Bengaluru,Beauty,Face Wash,3,3261.6,1891.73,1369.87,0.1
+ORD0651,2025-01-11,CUST094,Sneha Kulkarni,North,Uttar Pradesh,Lucknow,Beauty,Shampoo,1,938.0,544.04,393.96,0.0
+ORD0652,2025-12-07,CUST101,Aditya Reddy,North,Uttar Pradesh,Noida,Electronics,Wireless Earbuds,5,27175.5,19566.36,7609.14,0.1
+ORD0653,2025-01-01,CUST026,Riya Singh,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,3,12978.0,9344.16,3633.84,0.25
+ORD0654,2025-07-04,CUST076,Rahul Reddy,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,3,4557.6,2962.44,1595.16,0.1
+ORD0655,2025-02-08,CUST016,Simran Das,West,Gujarat,Surat,Fashion,T-Shirt,1,2162.4,1340.69,821.71,0.2
+ORD0656,2025-06-27,CUST137,Simran Desai,South,Telangana,Hyderabad,Home & Kitchen,Table Lamp,5,5980.25,3887.16,2093.09,0.05
+ORD0657,2025-10-07,CUST063,Ishita Mehta,North,Uttar Pradesh,Noida,Fashion,Jeans,2,926.5,574.43,352.07,0.15
+ORD0658,2025-01-29,CUST060,Riya Sharma,South,Tamil Nadu,Coimbatore,Fashion,Jeans,5,3744.0,2321.28,1422.72,0.1
+ORD0659,2025-12-25,CUST142,Ishita Verma,North,Delhi,New Delhi,Fashion,T-Shirt,5,11572.0,7174.64,4397.36,0.2
+ORD0660,2025-01-17,CUST018,Sahil Iyer,East,West Bengal,Kolkata,Fashion,T-Shirt,3,1957.5,1213.65,743.85,0.1
+ORD0661,2025-12-13,CUST074,Rohan Sharma,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,2,894.9,581.69,313.21,0.05
+ORD0662,2025-01-12,CUST007,Rahul Mehta,North,Rajasthan,Udaipur,Electronics,Smart Watch,3,13463.4,9693.65,3769.75,0.05
+ORD0663,2025-04-02,CUST027,Nikhil Iyer,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,5,10138.5,6590.03,3548.47,0.1
+ORD0664,2025-08-25,CUST001,Rohan Singh,North,Uttar Pradesh,Noida,Beauty,Shampoo,2,1499.4,869.65,629.75,0.1
+ORD0665,2025-08-20,CUST059,Sneha Iyer,East,Odisha,Bhubaneswar,Electronics,Smart Watch,4,12631.0,9094.32,3536.68,0.15
+ORD0666,2025-12-04,CUST091,Meera Nair,East,West Bengal,Kolkata,Fashion,Sneakers,2,3990.6,2474.17,1516.43,0.1
+ORD0667,2025-02-22,CUST072,Neha Iyer,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,4,7588.8,4932.72,2656.08,0.15
+ORD0668,2025-04-11,CUST100,Karan Singh,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,5,17050.0,12276.0,4774.0,0.0
+ORD0669,2025-06-15,CUST015,Neha Iyer,North,Delhi,New Delhi,Fashion,Jeans,3,3167.1,1963.6,1203.5,0.15
+ORD0670,2025-04-28,CUST139,Meera Iyer,North,Uttar Pradesh,Noida,Electronics,Smart Watch,2,3247.2,2337.98,909.22,0.1
+ORD0671,2025-10-08,CUST078,Rohan Nair,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,5,16568.0,11928.96,4639.04,0.2
+ORD0672,2025-11-30,CUST116,Arjun Mehta,West,Gujarat,Ahmedabad,Fashion,Sneakers,1,1749.9,1084.94,664.96,0.05
+ORD0673,2025-12-03,CUST097,Sahil Desai,South,Telangana,Hyderabad,Home & Kitchen,Table Lamp,3,6737.4,4379.31,2358.09,0.05
+ORD0674,2025-05-15,CUST066,Nikhil Reddy,West,Gujarat,Ahmedabad,Fashion,T-Shirt,4,11500.0,7130.0,4370.0,0.0
+ORD0675,2025-12-10,CUST070,Karan Das,North,Rajasthan,Udaipur,Electronics,Smart Watch,5,18221.25,13119.3,5101.95,0.25
+ORD0676,2025-12-29,CUST024,Pooja Patel,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,4,8329.6,5414.24,2915.36,0.05
+ORD0677,2025-07-25,CUST116,Arjun Mehta,East,Odisha,Bhubaneswar,Electronics,Smart Watch,2,8935.7,6433.7,2502.0,0.05
+ORD0678,2025-12-20,CUST132,Kavya Mehta,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,2,3974.4,2583.36,1391.04,0.1
+ORD0679,2025-12-30,CUST053,Ananya Mali,West,Gujarat,Surat,Beauty,Body Lotion,1,1278.0,741.24,536.76,0.1
+ORD0680,2025-08-28,CUST111,Aarav Mali,East,Odisha,Bhubaneswar,Beauty,Shampoo,4,2616.0,1517.28,1098.72,0.0
+ORD0681,2025-07-29,CUST106,Priya Sharma,North,Rajasthan,Udaipur,Fashion,Kurti,1,2227.0,1380.74,846.26,0.15
+ORD0682,2025-12-01,CUST108,Aditya Patel,East,West Bengal,Kolkata,Fashion,Kurti,3,4041.9,2505.98,1535.92,0.1
+ORD0683,2025-08-28,CUST028,Rohan Iyer,North,Uttar Pradesh,Lucknow,Home & Kitchen,Water Bottle,2,2331.0,1515.15,815.85,0.1
+ORD0684,2025-08-09,CUST002,Nikhil Kulkarni,South,Karnataka,Mysuru,Electronics,Power Bank,3,10063.2,7245.5,2817.7,0.2
+ORD0685,2025-08-24,CUST101,Aditya Reddy,South,Karnataka,Mysuru,Home & Kitchen,Coffee Mug,5,3605.25,2343.41,1261.84,0.05
+ORD0686,2025-05-17,CUST017,Nikhil Reddy,South,Telangana,Hyderabad,Beauty,Body Lotion,3,4286.4,2486.11,1800.29,0.05
+ORD0687,2025-08-23,CUST046,Nikhil Nair,South,Karnataka,Bengaluru,Home & Kitchen,Storage Box,3,774.9,503.69,271.21,0.1
+ORD0688,2025-08-24,CUST092,Karan Mali,South,Telangana,Hyderabad,Fashion,Kurti,1,2185.95,1355.29,830.66,0.05
+ORD0689,2025-12-07,CUST033,Rahul Patel,West,Maharashtra,Mumbai,Fashion,Jeans,5,2570.0,1593.4,976.6,0.0
+ORD0690,2025-08-21,CUST046,Nikhil Nair,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,3,13279.5,9561.24,3718.26,0.25
+ORD0691,2025-07-25,CUST118,Aditi Mehta,North,Delhi,New Delhi,Fashion,Jeans,1,491.15,304.51,186.64,0.05
+ORD0692,2025-12-09,CUST077,Priya Joshi,North,Delhi,New Delhi,Home & Kitchen,Storage Box,4,5950.0,3867.5,2082.5,0.15
+ORD0693,2025-02-24,CUST058,Rohan Khan,South,Tamil Nadu,Coimbatore,Electronics,Bluetooth Speaker,2,5281.5,3802.68,1478.82,0.25
+ORD0694,2025-05-25,CUST098,Ishita Mehta,South,Tamil Nadu,Chennai,Electronics,Power Bank,2,5379.2,3873.02,1506.18,0.2
+ORD0695,2025-06-19,CUST143,Priya Kulkarni,South,Telangana,Hyderabad,Fashion,Sneakers,4,4916.4,3048.17,1868.23,0.15
+ORD0696,2025-05-21,CUST109,Riya Iyer,North,Uttar Pradesh,Noida,Electronics,Smart Watch,4,13664.0,9838.08,3825.92,0.2
+ORD0697,2025-06-16,CUST071,Nikhil Desai,South,Karnataka,Mysuru,Fashion,T-Shirt,5,4237.25,2627.09,1610.16,0.15
+ORD0698,2025-06-04,CUST033,Rahul Patel,West,Maharashtra,Pune,Fashion,Jeans,4,4096.0,2539.52,1556.48,0.2
+ORD0699,2025-01-19,CUST114,Aditi Joshi,North,Delhi,New Delhi,Beauty,Lip Balm,5,6668.0,3867.44,2800.56,0.2
+ORD0700,2025-04-06,CUST145,Ananya Mali,East,West Bengal,Kolkata,Fashion,Sneakers,1,760.95,471.79,289.16,0.05
+ORD0701,2025-09-06,CUST116,Arjun Mehta,North,Rajasthan,Udaipur,Electronics,Smart Watch,5,4713.25,3393.54,1319.71,0.15
+ORD0702,2025-04-02,CUST086,Ishita Iyer,East,Odisha,Bhubaneswar,Beauty,Lip Balm,3,4733.85,2745.63,1988.22,0.05
+ORD0703,2025-10-20,CUST008,Ananya Gupta,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,2,2122.0,1527.84,594.16,0.0
+ORD0704,2025-11-14,CUST054,Aarav Kulkarni,West,Gujarat,Surat,Beauty,Face Wash,1,1269.2,736.14,533.06,0.05
+ORD0705,2025-02-14,CUST108,Aditya Patel,West,Maharashtra,Nagpur,Electronics,Power Bank,4,18489.2,13312.22,5176.98,0.15
+ORD0706,2025-06-24,CUST138,Simran Khan,South,Karnataka,Mysuru,Beauty,Body Lotion,2,765.7,444.11,321.59,0.05
+ORD0707,2025-03-24,CUST019,Meera Khan,North,Rajasthan,Udaipur,Fashion,Sneakers,2,2283.1,1415.52,867.58,0.15
+ORD0708,2025-05-09,CUST140,Aditya Patel,East,Odisha,Bhubaneswar,Home & Kitchen,Storage Box,1,1710.9,1112.09,598.81,0.1
+ORD0709,2025-11-23,CUST135,Neha Mali,East,Odisha,Bhubaneswar,Home & Kitchen,Coffee Mug,1,2308.0,1500.2,807.8,0.0
+ORD0710,2025-12-10,CUST141,Aarav Reddy,South,Tamil Nadu,Chennai,Home & Kitchen,Storage Box,1,1641.6,1067.04,574.56,0.05
+ORD0711,2025-02-03,CUST141,Aarav Reddy,West,Gujarat,Ahmedabad,Beauty,Shampoo,4,4636.0,2688.88,1947.12,0.05
+ORD0712,2025-01-19,CUST077,Priya Joshi,North,Uttar Pradesh,Lucknow,Home & Kitchen,Table Lamp,5,7424.0,4825.6,2598.4,0.2
+ORD0713,2025-11-22,CUST107,Aditya Kulkarni,South,Tamil Nadu,Coimbatore,Home & Kitchen,Coffee Mug,1,1661.4,1079.91,581.49,0.1
+ORD0714,2025-04-02,CUST127,Ananya Das,West,Maharashtra,Nagpur,Electronics,Smart Watch,3,3519.0,2533.68,985.32,0.15
+ORD0715,2025-04-03,CUST052,Aditya Mehta,North,Rajasthan,Udaipur,Electronics,Bluetooth Speaker,4,20937.6,15075.07,5862.53,0.1
+ORD0716,2025-05-29,CUST086,Ishita Iyer,North,Uttar Pradesh,Noida,Fashion,Sneakers,5,8586.0,5323.32,3262.68,0.1
+ORD0717,2025-05-24,CUST056,Rohan Desai,North,Delhi,New Delhi,Home & Kitchen,Coffee Mug,4,2768.4,1799.46,968.94,0.1
+ORD0718,2025-07-21,CUST019,Meera Khan,West,Maharashtra,Pune,Home & Kitchen,Table Lamp,2,4632.2,3010.93,1621.27,0.05
+ORD0719,2025-11-19,CUST077,Priya Joshi,East,West Bengal,Kolkata,Fashion,Sneakers,3,4869.6,3019.15,1850.45,0.2
+ORD0720,2025-12-06,CUST012,Aarav Iyer,West,Maharashtra,Mumbai,Fashion,Kurti,3,5859.6,3632.95,2226.65,0.05
+ORD0721,2025-01-23,CUST124,Aditi Nair,South,Karnataka,Mysuru,Beauty,Shampoo,3,3012.0,1746.96,1265.04,0.0
+ORD0722,2025-05-05,CUST134,Kavya Joshi,West,Gujarat,Surat,Home & Kitchen,Water Bottle,2,4451.4,2893.41,1557.99,0.1
+ORD0723,2025-09-24,CUST106,Priya Sharma,West,Maharashtra,Pune,Electronics,Power Bank,4,15735.8,11329.78,4406.02,0.05
+ORD0724,2025-07-20,CUST033,Rahul Patel,West,Gujarat,Ahmedabad,Home & Kitchen,Table Lamp,5,2340.0,1521.0,819.0,0.1
+ORD0725,2025-04-19,CUST067,Ananya Sharma,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,4,4809.6,3462.91,1346.69,0.2
+ORD0726,2025-01-02,CUST071,Nikhil Desai,West,Gujarat,Surat,Fashion,Sneakers,4,8956.6,5553.09,3403.51,0.05
+ORD0727,2025-08-01,CUST034,Aditi Gupta,South,Telangana,Hyderabad,Fashion,Jeans,4,9345.6,5794.27,3551.33,0.1
+ORD0728,2025-12-19,CUST022,Karan Joshi,North,Delhi,New Delhi,Electronics,Smart Watch,4,14156.8,10192.9,3963.9,0.2
+ORD0729,2025-12-02,CUST024,Pooja Patel,South,Telangana,Hyderabad,Beauty,Body Lotion,1,1499.4,869.65,629.75,0.15
+ORD0730,2025-05-18,CUST054,Aarav Kulkarni,South,Tamil Nadu,Coimbatore,Fashion,Kurti,3,7338.9,4550.12,2788.78,0.15
+ORD0731,2025-05-10,CUST129,Rohan Singh,South,Telangana,Hyderabad,Home & Kitchen,Coffee Mug,1,892.8,580.32,312.48,0.1
+ORD0732,2025-03-14,CUST137,Simran Desai,South,Karnataka,Mysuru,Beauty,Face Wash,4,1321.2,766.3,554.9,0.1
+ORD0733,2025-07-23,CUST137,Simran Desai,East,West Bengal,Kolkata,Fashion,Jeans,2,3631.2,2251.34,1379.86,0.15
+ORD0734,2025-07-30,CUST007,Rahul Mehta,North,Uttar Pradesh,Noida,Home & Kitchen,Water Bottle,5,1874.25,1218.26,655.99,0.15
+ORD0735,2025-07-07,CUST072,Neha Iyer,West,Maharashtra,Pune,Home & Kitchen,Table Lamp,2,4748.1,3086.27,1661.83,0.05
+ORD0736,2025-09-10,CUST037,Ishita Patel,North,Delhi,New Delhi,Home & Kitchen,Water Bottle,3,4437.0,2884.05,1552.95,0.15
+ORD0737,2025-07-07,CUST125,Ananya Singh,East,Odisha,Bhubaneswar,Beauty,Face Wash,3,4668.3,2707.61,1960.69,0.1
+ORD0738,2025-10-08,CUST041,Sneha Reddy,South,Tamil Nadu,Chennai,Electronics,Power Bank,3,13764.0,9910.08,3853.92,0.0
+ORD0739,2025-03-03,CUST051,Arjun Mali,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,5,10051.25,7236.9,2814.35,0.15
+ORD0740,2025-01-28,CUST008,Ananya Gupta,East,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,4,20675.8,14886.58,5789.22,0.05
+ORD0741,2025-09-14,CUST101,Aditya Reddy,West,Gujarat,Surat,Electronics,Smart Watch,5,11500.5,8280.36,3220.14,0.15
+ORD0742,2025-07-01,CUST034,Aditi Gupta,West,Maharashtra,Pune,Fashion,Jeans,4,2635.2,1633.82,1001.38,0.1
+ORD0743,2025-12-20,CUST028,Rohan Iyer,South,Tamil Nadu,Coimbatore,Electronics,Wireless Earbuds,5,20799.0,14975.28,5823.72,0.1
+ORD0744,2025-07-24,CUST064,Ananya Sharma,West,Maharashtra,Nagpur,Beauty,Lip Balm,3,3153.6,1829.09,1324.51,0.1
+ORD0745,2025-10-08,CUST129,Rohan Singh,North,Delhi,New Delhi,Fashion,Jeans,3,3062.55,1898.78,1163.77,0.15
+ORD0746,2025-01-01,CUST130,Karan Sharma,West,Gujarat,Surat,Electronics,Power Bank,5,6673.5,4804.92,1868.58,0.1
+ORD0747,2025-05-27,CUST008,Ananya Gupta,East,Odisha,Bhubaneswar,Beauty,Body Lotion,3,2519.4,1461.25,1058.15,0.15
+ORD0748,2025-04-25,CUST074,Rohan Sharma,West,Gujarat,Surat,Fashion,Jeans,2,4627.2,2868.86,1758.34,0.2
+ORD0749,2025-07-18,CUST070,Karan Das,East,West Bengal,Kolkata,Beauty,Lip Balm,2,716.0,415.28,300.72,0.0
+ORD0750,2025-03-14,CUST023,Kavya Singh,East,West Bengal,Kolkata,Electronics,Power Bank,4,8540.8,6149.38,2391.42,0.15
+ORD0751,2025-04-06,CUST059,Sneha Iyer,East,West Bengal,Kolkata,Fashion,Jeans,2,5162.4,3200.69,1961.71,0.1
+ORD0752,2025-02-07,CUST099,Nikhil Kulkarni,East,Odisha,Bhubaneswar,Electronics,Smart Watch,4,12279.6,8841.31,3438.29,0.1
+ORD0753,2025-11-06,CUST029,Sneha Das,West,Gujarat,Surat,Fashion,Jeans,2,1053.0,652.86,400.14,0.1
+ORD0754,2025-01-03,CUST019,Meera Khan,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,3,5181.6,3730.75,1450.85,0.2
+ORD0755,2025-10-03,CUST009,Riya Mehta,North,Uttar Pradesh,Noida,Beauty,Shampoo,3,2159.85,1252.71,907.14,0.15
+ORD0756,2025-05-19,CUST102,Aditya Desai,North,Uttar Pradesh,Noida,Fashion,Sneakers,5,6370.75,3949.86,2420.89,0.15
+ORD0757,2025-11-10,CUST102,Aditya Desai,East,Odisha,Bhubaneswar,Electronics,Power Bank,3,18203.4,13106.45,5096.95,0.1
+ORD0758,2025-03-25,CUST058,Rohan Khan,East,West Bengal,Kolkata,Beauty,Face Wash,1,724.2,420.04,304.16,0.15
+ORD0759,2025-09-01,CUST047,Aarav Khan,West,Gujarat,Ahmedabad,Fashion,Sneakers,3,4312.05,2673.47,1638.58,0.15
+ORD0760,2025-02-18,CUST059,Sneha Iyer,North,Uttar Pradesh,Lucknow,Home & Kitchen,Storage Box,3,5130.0,3334.5,1795.5,0.05
+ORD0761,2025-09-28,CUST023,Kavya Singh,West,Maharashtra,Mumbai,Home & Kitchen,Storage Box,4,8027.4,5217.81,2809.59,0.15
+ORD0762,2025-11-09,CUST075,Meera Nair,East,West Bengal,Kolkata,Fashion,Sneakers,3,2864.7,1776.11,1088.59,0.1
+ORD0763,2025-01-08,CUST057,Karan Iyer,South,Tamil Nadu,Chennai,Fashion,T-Shirt,5,10478.5,6496.67,3981.83,0.05
+ORD0764,2025-01-10,CUST036,Kavya Desai,West,Gujarat,Ahmedabad,Home & Kitchen,Storage Box,1,931.0,605.15,325.85,0.05
+ORD0765,2025-12-15,CUST113,Ishita Desai,North,Uttar Pradesh,Lucknow,Home & Kitchen,Table Lamp,3,5294.4,3441.36,1853.04,0.2
+ORD0766,2025-01-09,CUST130,Karan Sharma,South,Tamil Nadu,Chennai,Electronics,Power Bank,5,25155.75,18112.14,7043.61,0.15
+ORD0767,2025-04-19,CUST146,Simran Mali,North,Rajasthan,Jaipur,Home & Kitchen,Storage Box,3,1898.1,1233.76,664.34,0.05
+ORD0768,2025-12-31,CUST128,Sahil Singh,East,West Bengal,Kolkata,Electronics,Power Bank,4,21507.2,15485.18,6022.02,0.2
+ORD0769,2025-05-06,CUST025,Karan Desai,North,Uttar Pradesh,Lucknow,Fashion,T-Shirt,2,2419.2,1499.9,919.3,0.2
+ORD0770,2025-05-27,CUST025,Karan Desai,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,1,2196.9,1427.99,768.91,0.1
+ORD0771,2025-07-26,CUST001,Rohan Singh,East,Odisha,Bhubaneswar,Beauty,Lip Balm,2,797.3,462.43,334.87,0.15
+ORD0772,2025-10-10,CUST111,Aarav Mali,South,Tamil Nadu,Chennai,Electronics,Smart Watch,2,5943.6,4279.39,1664.21,0.1
+ORD0773,2025-03-04,CUST068,Priya Desai,North,Uttar Pradesh,Noida,Home & Kitchen,Table Lamp,1,1750.5,1137.83,612.67,0.1
+ORD0774,2025-07-06,CUST124,Aditi Nair,North,Rajasthan,Udaipur,Fashion,Kurti,2,1771.2,1098.14,673.06,0.1
+ORD0775,2025-07-29,CUST095,Karan Reddy,East,Odisha,Bhubaneswar,Fashion,Jeans,1,452.25,280.39,171.86,0.25
+ORD0776,2025-02-27,CUST074,Rohan Sharma,South,Karnataka,Mysuru,Fashion,Kurti,1,554.2,343.6,210.6,0.15
+ORD0777,2025-11-04,CUST119,Priya Singh,North,Rajasthan,Udaipur,Home & Kitchen,Water Bottle,5,10120.0,6578.0,3542.0,0.0
+ORD0778,2025-10-27,CUST125,Ananya Singh,South,Tamil Nadu,Chennai,Home & Kitchen,Table Lamp,3,4485.0,2915.25,1569.75,0.0
+ORD0779,2025-03-31,CUST057,Karan Iyer,West,Gujarat,Ahmedabad,Home & Kitchen,Coffee Mug,2,3936.8,2558.92,1377.88,0.05
+ORD0780,2025-06-29,CUST131,Sneha Joshi,North,Rajasthan,Jaipur,Fashion,Kurti,2,3013.4,1868.31,1145.09,0.05
+ORD0781,2025-08-13,CUST109,Riya Iyer,North,Uttar Pradesh,Lucknow,Fashion,Kurti,4,1757.8,1089.84,667.96,0.15
+ORD0782,2025-12-20,CUST147,Meera Mehta,South,Karnataka,Mysuru,Electronics,Power Bank,2,11212.2,8072.78,3139.42,0.1
+ORD0783,2025-12-14,CUST123,Karan Iyer,North,Uttar Pradesh,Noida,Electronics,Smart Watch,2,4446.4,3201.41,1244.99,0.2
+ORD0784,2025-01-26,CUST019,Meera Khan,North,Uttar Pradesh,Lucknow,Fashion,Sneakers,5,12703.5,7876.17,4827.33,0.1
+ORD0785,2025-05-03,CUST017,Nikhil Reddy,North,Delhi,New Delhi,Fashion,T-Shirt,5,11802.25,7317.39,4484.86,0.15
+ORD0786,2025-01-27,CUST089,Rohan Reddy,West,Maharashtra,Pune,Home & Kitchen,Storage Box,1,1169.6,760.24,409.36,0.2
+ORD0787,2025-04-24,CUST041,Sneha Reddy,North,Uttar Pradesh,Lucknow,Fashion,Jeans,3,1819.2,1127.9,691.3,0.2
+ORD0788,2025-10-14,CUST083,Riya Desai,North,Uttar Pradesh,Lucknow,Fashion,Kurti,4,4339.6,2690.55,1649.05,0.05
+ORD0789,2025-07-22,CUST040,Simran Das,South,Karnataka,Mysuru,Home & Kitchen,Storage Box,5,4635.0,3012.75,1622.25,0.25
+ORD0790,2025-08-09,CUST110,Priya Sharma,East,Odisha,Bhubaneswar,Beauty,Lip Balm,1,1778.0,1031.24,746.76,0.0
+ORD0791,2025-01-31,CUST093,Rohan Gupta,South,Tamil Nadu,Coimbatore,Electronics,Bluetooth Speaker,4,9021.0,6495.12,2525.88,0.25
+ORD0792,2025-06-14,CUST064,Ananya Sharma,South,Tamil Nadu,Coimbatore,Fashion,Kurti,3,1454.4,901.73,552.67,0.2
+ORD0793,2025-07-06,CUST001,Rohan Singh,West,Gujarat,Surat,Beauty,Body Lotion,1,351.2,203.7,147.5,0.2
+ORD0794,2025-08-02,CUST009,Riya Mehta,South,Karnataka,Bengaluru,Home & Kitchen,Water Bottle,5,10282.5,6683.62,3598.88,0.1
+ORD0795,2025-03-05,CUST122,Simran Sharma,North,Uttar Pradesh,Noida,Beauty,Body Lotion,2,1991.2,1154.9,836.3,0.05
+ORD0796,2025-01-25,CUST060,Riya Sharma,West,Maharashtra,Mumbai,Home & Kitchen,Coffee Mug,2,1011.2,657.28,353.92,0.2
+ORD0797,2025-03-06,CUST048,Rohan Khan,South,Telangana,Hyderabad,Beauty,Lip Balm,4,6019.2,3491.14,2528.06,0.1
+ORD0798,2025-01-02,CUST131,Sneha Joshi,West,Maharashtra,Nagpur,Fashion,T-Shirt,1,2141.1,1327.48,813.62,0.1
+ORD0799,2025-02-26,CUST049,Aarav Iyer,North,Delhi,New Delhi,Electronics,Bluetooth Speaker,2,10726.2,7722.86,3003.34,0.1
+ORD0800,2025-07-11,CUST080,Rahul Nair,South,Tamil Nadu,Coimbatore,Electronics,Wireless Earbuds,2,3578.4,2576.45,1001.95,0.1
